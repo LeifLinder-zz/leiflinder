@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<designs>
+   <design>
+      <designid>d1001</designid>
+      <title>Bilkrig war with autos</title>
+      <imgsrc>./assets/Designs/d1001.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1001-Large.png</imgsrcLarge>
+      <type>Design</type>
+      <position>0</position>
+      <description>Cool pop design with neon colors</description>
+      <builddate>2019/06/20</builddate>
+   </design>
+   <design>
+      <designid>d1002</designid>
+      <title>Oh God</title>
+      <imgsrc>./assets/Designs/d1002.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1002-Large.png</imgsrcLarge>
+      <type>Design</type>
+      <position>0</position>
+      <description>Male figure with red shapes</description>
+      <builddate>2019/06/27</builddate>
+   </design>
+   <design>
+      <designid>d1003</designid>
+      <title>Life After Love</title>
+      <imgsrc>./assets/Designs/d1003.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1003-Large.png</imgsrcLarge>
+      <type>Design</type>
+      <position>0</position>
+      <description>Do you believe in live after love? Facebook 40 design.</description>
+      <builddate>2019/07/02</builddate>
+   </design>
+   <design>
+      <designid>d1004</designid>
+      <title>Marathon Course Entertainment</title>
+      <imgsrc>./assets/Designs/d1004.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1004-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Idea for Race Course Entertainment Logo.</description>
+      <builddate>2019/08/11</builddate>
+   </design>
+   <design>
+      <designid>d1005</designid>
+      <title>Vestfold Dyrehospital</title>
+      <imgsrc>./assets/Designs/d1005.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1005-Large.png</imgsrcLarge>
+      <type>Website</type>
+      <position>0</position>
+      <description>Design proposal for Vestfold Dyrehospital.</description>
+      <builddate>2019/08/11</builddate>
+   </design>
+   <design>
+      <designid>d1006</designid>
+      <title>Linder Design Logo</title>
+      <imgsrc>./assets/Designs/d1006.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1006-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Linder Design logo as squarish format.</description>
+      <builddate>2019/04/17</builddate>
+   </design>
+   <design>
+      <designid>d1011</designid>
+      <title>Linder Design Homepage</title>
+      <imgsrc>./assets/Designs/d1011.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1011-Large.png</imgsrcLarge>
+      <type>Website</type>
+      <position>0</position>
+      <description>Homepage design mock up for Linder Design</description>
+      <builddate>2019/08/28</builddate>
+   </design>
+   <design>
+      <designid>d1012</designid>
+      <title>Linder Design Logo</title>
+      <imgsrc>./assets/Designs/d1012.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1012-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Alternative Linder Design logo with globe</description>
+      <builddate>2019/04/17</builddate>
+   </design>
+   <design>
+      <designid>d1013</designid>
+      <title>Linder Design Logo</title>
+      <imgsrc>./assets/Designs/d1013.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1013-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Alternative Linder Design logo with globe</description>
+      <builddate>2019/04/17</builddate>
+   </design>
+   <design>
+      <designid>d1014</designid>
+      <title>Linder Design Logo</title>
+      <imgsrc>./assets/Designs/d1014.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1014-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Alternative Linder Design logo with globe</description>
+      <builddate>2019/04/17</builddate>
+   </design>
+   <design>
+      <designid>d1015</designid>
+      <title>Linder Design Logo</title>
+      <imgsrc>./assets/Designs/d1015.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1015-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Alternative Linder Design logo with globe</description>
+      <builddate>2019/04/17</builddate>
+   </design>
+   <design>
+      <designid>d1016</designid>
+      <title>Linder Design Logo</title>
+      <imgsrc>./assets/Designs/d1016.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1016-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Alternative Linder Design logo with globe</description>
+      <builddate>2019/04/17</builddate>
+   </design>
+   <design>
+      <designid>d1017</designid>
+      <title>Linder Design Photography</title>
+      <imgsrc>./assets/Designs/d1017.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1017-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Linder Design Photography section</description>
+      <builddate>2019/04/17</builddate>
+   </design>
+   <design>
+      <designid>d1018</designid>
+      <title>Linder Creative clamshell</title>
+      <imgsrc>./assets/Designs/d1018.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1018-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Linder Creative logo clamshell version</description>
+      <builddate>2019/02/13</builddate>
+   </design>
+   <design>
+      <designid>d1019</designid>
+      <title>Linder Creative</title>
+      <imgsrc>./assets/Designs/d1019.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1019-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Linder Creative logo</description>
+      <builddate>2019/02/13</builddate>
+   </design>
+   <design>
+      <designid>d1020</designid>
+      <title>Linder Creative</title>
+      <imgsrc>./assets/Designs/d1020.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1020-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Linder Creative logo</description>
+      <builddate>2019/02/13</builddate>
+   </design>
+   <design>
+      <designid>d1021</designid>
+      <title>Linder Creative</title>
+      <imgsrc>./assets/Designs/d1021.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1021-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Linder Creative logo</description>
+      <builddate>2019/02/13</builddate>
+   </design>
+   <design>
+      <designid>d1022</designid>
+      <title>Linder Creative</title>
+      <imgsrc>./assets/Designs/d1022.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1022-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Linder Creative logo</description>
+      <builddate>2019/02/13</builddate>
+   </design>
+   <design>
+      <designid>d1023</designid>
+      <title>Linder Creative</title>
+      <imgsrc>./assets/Designs/d1023.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1023-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Linder Creative logo</description>
+      <builddate>2019/02/13</builddate>
+   </design>
+   <design>
+      <designid>d1024</designid>
+      <title>Linder Creative</title>
+      <imgsrc>./assets/Designs/d1024.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1024-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Linder Creative logo</description>
+      <builddate>2019/02/13</builddate>
+   </design>
+   <design>
+      <designid>d1025</designid>
+      <title>Linder Creative</title>
+      <imgsrc>./assets/Designs/d1025.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1025-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Linder Creative logo bat version</description>
+      <builddate>2018/08/02</builddate>
+   </design>
+   <design>
+      <designid>d1026</designid>
+      <title>Linder Creative</title>
+      <imgsrc>./assets/Designs/d1026.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1026-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Linder Creative logo globe version</description>
+      <builddate>2019/06/26</builddate>
+   </design>
+   <design>
+      <designid>d1027</designid>
+      <title>Free to Run</title>
+      <imgsrc>./assets/Designs/d1027.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1027-Large.png</imgsrcLarge>
+      <type>Design</type>
+      <position>0</position>
+      <description>Runner Information App</description>
+      <builddate>2019/08/06</builddate>
+   </design>
+   <design>
+      <designid>d1028</designid>
+      <title>Meables Music</title>
+      <imgsrc>./assets/Designs/d1028.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1028-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Meables Self Publish Music App</description>
+      <builddate>2019/07/07</builddate>
+   </design>
+   <design>
+      <designid>d1029</designid>
+      <title>Meables Music</title>
+      <imgsrc>./assets/Designs/d1029.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1029-Large.png</imgsrcLarge>
+      <type>Website</type>
+      <position>0</position>
+      <description>Meables Self Publish Music App</description>
+      <builddate>2019/07/07</builddate>
+   </design>
+      <design>
+      <designid>d1030</designid>
+      <title>Meables Music Design</title>
+      <imgsrc>./assets/Designs/d1030.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1030-Large.png</imgsrcLarge>
+      <type>Website</type>
+      <position>0</position>
+      <description>Meables Self Publish Music App</description>
+      <builddate>2019/07/07</builddate>
+   </design>
+   <design>
+      <designid>d1031</designid>
+      <title>Modem 64</title>
+      <imgsrc>./assets/Designs/d1031.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1031-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Modem 64 logo design</description>
+      <builddate>2019/01/24</builddate>
+   </design>
+   <design>
+      <designid>d1032</designid>
+      <title>MODOM</title>
+      <imgsrc>./assets/Designs/d1032.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1032-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>MODOM logo</description>
+      <builddate>2019/01/24</builddate>
+   </design>
+   <design>
+      <designid>d1033</designid>
+      <title>Norsk 220</title>
+      <imgsrc>./assets/Designs/d1033.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1033-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Norsk 220</description>
+      <builddate>2019/08/05</builddate>
+   </design>
+   <design>
+      <designid>d1034</designid>
+      <title>Sellgear.net</title>
+      <imgsrc>./assets/Designs/d1034.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1034-Large.png</imgsrcLarge>
+      <type>Website</type>
+      <position>0</position>
+      <description>Sellgear.net</description>
+      <builddate>2014/11/14</builddate>
+   </design>
+   <design>
+      <designid>d1035</designid>
+      <title>Sellgear.net</title>
+      <imgsrc>./assets/Designs/d1035.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1035-Large.png</imgsrcLarge>
+      <type>Website</type>
+      <position>0</position>
+      <description>Sellgear.net</description>
+      <builddate>2014/11/14</builddate>
+   </design>
+   <design>
+      <designid>d1036</designid>
+      <title>Duchess</title>
+      <imgsrc>./assets/Designs/d1036.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1036-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Duchess literary magazine</description>
+      <builddate>2019/04/12</builddate>
+   </design>
+   <design>
+      <designid>d1037</designid>
+      <title>Time Commando</title>
+      <imgsrc>./assets/Designs/d1037.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1037-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Time Commando time management</description>
+      <builddate>2019/06/05</builddate>
+   </design>
+   <design>
+      <designid>d1038</designid>
+      <title>Time Zcar</title>
+      <imgsrc>./assets/Designs/d1038.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1038-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Time Czar time management</description>
+      <builddate>2019/07/30</builddate>
+   </design>
+   <design>
+      <designid>d1039</designid>
+      <title>Time Zcar</title>
+      <imgsrc>./assets/Designs/d1039.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1039-Large.png</imgsrcLarge>
+      <type>Website</type>
+      <position>0</position>
+      <description>Time Czar time management</description>
+      <builddate>2019/06/06</builddate>
+   </design>
+   <design>
+      <designid>d1040</designid>
+      <title>Time Zcar</title>
+      <imgsrc>./assets/Designs/d1040.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1040-Large.png</imgsrcLarge>
+      <type>Website</type>
+      <position>0</position>
+      <description>Time Czar time management</description>
+      <builddate>2019/06/06</builddate>
+   </design>
+   <design>
+      <designid>d1041</designid>
+      <title>Time Zcar</title>
+      <imgsrc>./assets/Designs/d1041.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1041-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Time Czar time management</description>
+      <builddate>2019/06/06</builddate>
+   </design>
+   <design>
+      <designid>d1042</designid>
+      <title>Tomato 220</title>
+      <imgsrc>./assets/Designs/d1042.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1042-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Tomato 220 time management</description>
+      <builddate>2019/05/09</builddate>
+   </design>
+      <design>
+      <designid>d1043</designid>
+      <title>Marathon Info App</title>
+      <imgsrc>./assets/Designs/d1043.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1043-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Marathon Information Application</description>
+      <builddate>2019/07/09</builddate>
+   </design>
+   <design>
+      <designid>d1044</designid>
+      <title>Marathon Info App</title>
+      <imgsrc>./assets/Designs/d1044.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1044-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Marathon Information Application</description>
+      <builddate>2019/07/09</builddate>
+   </design>
+   <design>
+      <designid>d1045</designid>
+      <title>Race Tunes</title>
+      <imgsrc>./assets/Designs/d1045.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1045-Large.png</imgsrcLarge>
+      <type>Logo</type>
+      <position>0</position>
+      <description>Race Tunes</description>
+      <builddate>2019/07/15</builddate>
+   </design>
+   <design>
+      <designid>d1046</designid>
+      <title>Linder Design</title>
+      <imgsrc>./assets/Designs/d1046.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1046-Large.png</imgsrcLarge>
+      <type>Website</type>
+      <position>0</position>
+      <description>Linder Design</description>
+      <builddate>2019/07/15</builddate>
+   </design>
+   <design>
+      <designid>d1047</designid>
+      <title>My Someone</title>
+      <imgsrc>./assets/Designs/d1047.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1047-Large.png</imgsrcLarge>
+      <type>Design</type>
+      <position>0</position>
+      <description>Who you seek</description>
+      <builddate>2019/07/15</builddate>
+   </design>
+   <design>
+      <designid>d1048</designid>
+      <title>Linder Design</title>
+      <imgsrc>./assets/Designs/d1048.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1048-Large.png</imgsrcLarge>
+      <type>Website</type>
+      <position>0</position>
+      <description>Linder Design</description>
+      <builddate>2019/07/15</builddate>
+   </design>
+</designs>

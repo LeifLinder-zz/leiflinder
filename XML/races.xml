@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<races>
+    <race>
+        <racetitle>TCS New York City Marathon</racetitle>
+        <racedate>November 04, 2018</racedate>
+        <racested>New York, NY</racested>
+        <overall>51448 of 52705</overall>
+        <racepace>15:46</racepace>
+        <racetime>6:53:08</racetime>
+    </race>
+
+    <race>
+        <racetitle>BMW Oslo Maraton</racetitle>
+        <racedate>September 16, 2017</racedate>
+        <racested>Oslo, NOR</racested>
+        <overall>6955 of 7373</overall>
+        <racepace>11:45</racepace>
+        <racetime>2:34:06</racetime>
+    </race>
+
+    <race>
+        <racetitle>Kiwanis Kingston Classic</racetitle>
+        <racedate>April 19, 2015</racedate>
+        <racested>Kingston, NY</racested>
+        <overall>45 of 47</overall>
+        <racepace>13:10</racepace>
+        <racetime>5:45:02</racetime>
+    </race>
+
+    <race>
+        <racetitle>Run for the Parks</racetitle>
+        <racedate>April 12, 2015</racedate>
+        <racested>New York City, NY</racested>
+        <overall>4644 of 7756</overall>
+        <racepace>9:25</racepace>
+        <racetime>37:43</racetime>
+    </race>
+
+    <race>
+        <racetitle>NYRR Scotland Run 10K</racetitle>
+        <racedate>April 04, 2015</racedate>
+        <racested>New York, NY</racested>
+        <overall>5324 of 8014</overall>
+        <racepace>9:47</racepace>
+        <racetime>1:00:53</racetime>
+    </race>
+
+    <race>
+        <racetitle>NYRR Al Gordon Classic</racetitle>
+        <racedate>February 21, 2015</racedate>
+        <racested>Brooklyn, NY</racested>
+        <overall>821 of 1050</overall>
+        <racepace>10:24</racepace>
+        <racetime>41:37</racetime>
+    </race>
+
+    <race>
+        <racetitle>Seattle Locks Marathon/Half Marathon</racetitle>
+        <racedate>January 03, 2015</racedate>
+        <racested>Seattle, WA</racested>
+        <overall>28 of 38</overall>
+        <racepace>12:43</racepace>
+        <racetime>5:33:35</racetime>
+    </race>
+
+    <race>
+        <racetitle>Philadelphia Marathon Race Weekend</racetitle>
+        <racedate>November 23, 2014</racedate>
+        <racested>Philadelphia, PA</racested>
+        <overall>8455 of 10359</overall>
+        <racepace>11:32</racepace>
+        <racetime>5:02:11</racetime>
+    </race>
+
+    <race>
+        <racetitle>Chicago Marathon</racetitle>
+        <racedate>October 12, 2014</racedate>
+        <racested>Chicago, IL</racested>
+        <overall>24179 of 40596</overall>
+        <racepace>10:44</racepace>
+        <racetime>4:41:22</racetime>
+    </race>
+
+    <race>
+        <racetitle>Grete's Great Gallop</racetitle>
+        <racedate>October 05, 2014</racedate>
+        <racested>Manhattan, NY</racested>
+        <overall>3484 of 5976</overall>
+        <racepace>9:25</racepace>
+        <racetime>2:03:33</racetime>
+    </race>
+
+    <race>
+        <racetitle>NYRR Five-Borough Series: Bronx 10-Mile</racetitle>
+        <racedate>September 28, 201</racedate>
+        <racested>Bronx, NY</racested>
+        <overall>5825 of 9581</overall>
+        <racepace>9:56</racepace>
+        <racetime>1:39:23</racetime>
+    </race>
+
+    <race>
+        <racetitle>TCS New York City Marathon Tune-Up</racetitle>
+        <racedate>September 14, 2014</racedate>
+        <racested>Central Park, Nyc, NY</racested>
+        <overall>4023 of 4871</overall>
+        <racepace>11:20</racepace>
+        <racetime>3:24:15</racetime>
+    </race>
+</races>
+
+<!--
+NYRR Fifth Avenue Mile
+September 13, 2014
+Fifth Avenue, Nyc, NY
+Overall
+2684
+of 5614
+Pace
+6:45
+Min/Mi
+Final Time
+06:45.00
+Autism Speaks 4 Miles of Hope
+September 06, 2014
+Central Park, Nyc, NY
+Overall
+2354
+of 5213
+Pace
+9:06
+Min/Mi
+Final Time
+36:27
+Achilles Hope And Possibility
+June 29, 2014
+Central Park, Nyc, NY
+Overall
+1973
+of 4177
+Pace
+9:41
+Min/Mi
+Final Time
+48:25
+UAE Healthy Kidney 10K
+May 10, 2014
+Central Park, NY
+Overall
+3539
+of 8053
+Pace
+8:55
+Min/Mi
+Final Time
+55:26
+New Jersey Marathon, Half Marathon & 5k
+April 26, 2014
+Long Branch, NJ
+Overall
+1997
+of 2128
+Pace
+13:09
+Min/Mi
+Final Time
+5:44:44
+Virgin London Marathon
+April 13, 2014
+London, GBR
+Overall
+29995
+of 35878
+Pace
+12:29
+Min/Mi
+Final Time
+5:27:06
+Publix Georgia Marathon & Half Marathon
+March 23, 2014
+Atlanta, GA
+Overall
+1110
+of 1635
+Pace
+11:16
+Min/Mi
+Final Time
+4:55:26
+Washington Heights Salsa, Blues, and Shamrocks 5K
+March 02, 2014
+New York, NY
+Overall
+1952
+of 6222
+Pace
+8:15
+Min/Mi
+Final Time
+25:39
+NYRR Al Gordon Classic
+February 22, 2014
+Brooklyn, NY
+Overall
+916
+of 1898
+Pace
+8:56
+Min/Mi
+Final Time
+35:45
+Empire State Building Run Up
+February 05, 2014
+Manhattan, NY
+Overall
+82
+of 414
+Pace
+Final Time
+16:57.00
+Life Time Miami Marathon, Half Marathon & Tropical 5k
+February 02, 2014
+Miami, FL
+Overall
+3023
+of 3541
+Pace
+12:57
+Min/Mi
+Final Time
+5:39:39
+Fred Lebow Manhattan Half Marathon
+January 26, 2014
+Central Park, NY
+Overall
+2440
+of 4027
+Pace
+9:39
+Min/Mi
+Final Time
+2:06:33
+Walt Disney WorldÂ® Marathon Weekend
+January 12, 2014
+Lake Buena Vista, FL
+Overall
+11830
+of 19201
+Pace
+13:19
+Min/Mi
+Final Time
+5:48:57
+Poland Spring Marathon Kickoff
+October 27, 2013
+Central Park, Nyc, NY
+Overall
+2637
+of 5427
+Pace
+9:03
+Min/Mi
+Final Time
+45:16
+Atlantic City Marathon
+October 13, 2013
+Atlantic City, NJ
+Overall
+538
+of 825
+Pace
+10:54
+Min/Mi
+Final Time
+4:45:41
+Grete's Great Gallop
+October 06, 2013
+Central Park, Nyc, NY
+Overall
+2669
+of 5561
+Pace
+9:12
+Min/Mi
+Final Time
+2:00:36
+BMW Berlin Marathon
+September 29, 2013
+Berlin, DEU
+Overall
+34483
+of 36542
+Pace
+12:06
+Min/Mi
+Final Time
+5:17:09
+NYRR 5-Borough Series: Queens 10K
+July 21, 2013
+New York, NY
+Overall
+5202
+of 6610
+Pace
+10:44
+Min/Mi
+Final Time
+1:06:44
+Maratona do Rio de Janeiro
+July 07, 2013
+Rio De Janeiro, BRA
+Overall
+3670
+of 3978
+Pace
+12:39
+Min/Mi
+Final Time
+5:31:49
+Portugal Day 5Mi
+June 16, 2013
+Manhattan, NY
+Overall
+3222
+of 5277
+Pace
+9:23
+Min/Mi
+Final Time
+46:57
+Japan Run
+May 12, 2013
+New York, NY
+Overall
+2702
+of 4813
+Pace
+9:23
+Min/Mi
+Final Time
+37:36
+The Ninth Annual UAE Healthy Kidney 10k
+May 11, 2013
+New York, NY
+Overall
+1752
+of 5859
+Pace
+8:19
+Min/Mi
+Final Time
+51:44
+New Jersey Marathon & Long Branch Half Marathon
+May 05, 2013
+Long Branch, NJ
+Overall
+1436
+of 2256
+Pace
+10:10
+Min/Mi
+Final Time
+4:26:34
+NYRR Run as One
+April 28, 2013
+New York, NY
+Overall
+3113
+of 7029
+Pace
+8:46
+Min/Mi
+Final Time
+35:06
+City Parks Foundation Run for the Parks
+April 21, 2013
+New York, NY
+Overall
+3752
+of 6307
+Pace
+9:18
+Min/Mi
+Final Time
+37:15
+NYRR Colon Cancer Challenge 2013
+April 07, 2013
+New York, NY
+Overall
+1805
+of 2431
+Pace
+9:57
+Min/Mi
+Final Time
+1:32:49
+NYRR Scotland Run 10K
+April 06, 2013
+New York, NY
+Overall
+5300
+of 7763
+Pace
+9:41
+Min/Mi
+Final Time
+1:00:16
+Coogan's Salsa, Blues, and Shamrocks 5K 2013
+March 03, 2013
+New York, NY
+Overall
+3181
+of 5826
+Pace
+9:25
+Min/Mi
+Final Time
+29:16
+Empire State Building Run-Up Powered by the MMRF
+February 06, 2013
+New York, NY
+Overall
+357
+of 726
+Pace
+Final Time
+19:02.00
+NYRR Gridiron Classic
+February 03, 2013
+New York, NY
+Overall
+2467
+of 5596
+Pace
+8:54
+Min/Mi
+Final Time
+35:37
+ING Miami Marathon & Half Marathon 2013
+January 27, 2013
+Miami, FL
+Overall
+2791
+of 3790
+Pace
+11:50
+Min/Mi
+Final Time
+5:10:18
+Joe Kleinerman Classic 10K 2013
+January 05, 2013
+New York, NY
+Overall
+2402
+of 3149
+Pace
+10:07
+Min/Mi
+Final Time
+1:02:55
+NYRR Ted Corbitt 15K
+December 15, 2012
+New York, NY
+Overall
+3350
+of 4014
+Pace
+10:29
+Min/Mi
+Final Time
+1:37:49
+Jingle Bell Jog 4Mi 2012
+December 08, 2012
+Brooklyn, NY
+Overall
+1934
+of 4181
+Pace
+9:32
+Min/Mi
+Final Time
+38:12
+Philadelphia Marathon Race Weekend
+November 18, 2012
+Philadelphia, PA
+Overall
+9713
+of 11619
+Pace
+11:21
+Min/Mi
+Final Time
+4:57:46
+Grete's Great Gallop in Support of AKTIV Foundation 2012
+October 14, 2012
+New York, NY
+Overall
+5007
+of 5946
+Pace
+11:02
+Min/Mi
+Final Time
+2:24:38
+Staten Island Half Marathon 2012
+October 07, 2012
+Staten Island, NY
+Overall
+3924
+of 5917
+Pace
+9:38
+Min/Mi
+Final Time
+2:06:15
+Henry Isola XC Classic
+September 30, 2012
+Bronx, NY
+Overall
+104
+of 204
+Pace
+8:37
+Min/Mi
+Final Time
+34:32 
+-->

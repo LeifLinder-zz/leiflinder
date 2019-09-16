@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codelist>
+    <code>
+        <codetitle>PHP</codetitle>
+        <codeid>1001</codeid>
+        <description>
+I am able to create fully developed web applications with PHP. I use objected oriented design principles and buid MVC systems for web sites. My history using PHP is long but I am most proud of my recent project. See GitHub for my work.
+        </description>
+        <github>https://github.com/LeifLinder/</github>
+    </code>
+    <code>
+        <codetitle>Angular 2</codetitle>
+        <codeid>1002</codeid>
+        <description>
+I have a good understanding of client-side Javasript frameworks and experience building AngularJS websites (see GitHub). I can use a model-view-controller framework and have working knowledge of Angular directives, filters and controllers. I can build single page applications using AngularJS, in addition to setting up a RESTful server.
+        </description>
+        <github>https://github.com/LeifLinder/</github>
+    </code>
+    <code>
+        <codetitle>CSS</codetitle>
+        <codeid>1003</codeid>
+        <description>
+        I have a strong understanding and years of practical experience using CSS. I use SASS preprocessor for the convenience of variables and mixins to reduce code redundancy.
+        </description>
+        <github>https://github.com/LeifLinder/</github>
+    </code>
+    <code>
+        <codetitle>HTML</codetitle>
+        <codeid>1004</codeid>
+        <description>
+        I can quickly write HTML code by hand without needing to look up tags and understand the benefits of HTML5 and semantic coding principles for the interpolation of code by various devices and screen sizes.
+        </description>
+        <github>https://github.com/LeifLinder/</github>
+    </code>
+    <code>
+        <codetitle>Javascript</codetitle>
+        <codeid>1005</codeid>
+        <description>
+        I can write vanilla Javascript without needing to look up basics task like creating arrays or variables or interating through sets. I can additioanly build Angular2 and ReactJS sites and jQuery assets.
+        </description>
+        <github>https://github.com/LeifLinder/</github>
+    </code>
+    <code>
+        <codetitle>MySQL</codetitle>
+        <codeid>1006</codeid>
+        <description>
+        I have several years experience creating basic queries and joining tables by row ids on select values. I can normalize databases to not dubplicate values and am able to create logical table schema for ease of mantainence and information retrieval.
+        </description>
+        <github>https://github.com/LeifLinder/</github>
+    </code>
+    <code>
+        <codetitle>XML XSLT</codetitle>
+        <codeid>1007</codeid>
+        <description>
+        I am able to build XML documents that indentify content types and conform to associated stylesheets. I can also transform documents to HTML or use as datasets in PHP or Javascript applications.
+        </description>
+        <github>https://github.com/LeifLinder/</github>
+    </code>
+    <code>
+        <codetitle>Drupal</codetitle>
+        <codeid>1008</codeid>
+        <description>
+        I have a lot of professional experience using early versions of Drupal 5, 6, 7. I can build Drupal websites and create custom themes and define users and control their access by role. Please see examples of my work.
+        </description>
+        <github>https://github.com/LeifLinder/</github>
+    </code>
+    <code>
+        <codetitle>Illustrator</codetitle>
+        <codeid>1009</codeid>
+        <description>
+        Description of Illustrator training and work.
+        </description>
+        <github></github>
+    </code>
+    <code>
+        <codetitle>Bootstrap</codetitle>
+        <codeid>1010</codeid>
+        <description>
+        Description of Bootstrap training and work.
+        </description>
+        <github></github>
+    </code>
+    <code>
+        <codetitle>ReactJS</codetitle>
+        <codeid>1011</codeid>
+        <description>
+        Description of ReactJS training and work.
+        </description>
+        <github></github>
+    </code>
+    <code>
+        <codetitle>TypeScript</codetitle>
+        <codeid>1012</codeid>
+        <description>
+        Description of TypeScript training and work.
+        </description>
+        <github></github>
+    </code>
+    <code>
+        <codetitle>Photoshop</codetitle>
+        <codeid>1013</codeid>
+        <description>
+        Description of Photoshop training and work.
+        </description>
+        <github></github>
+    </code>
+    <code>
+        <codetitle>InDesign</codetitle>
+        <codeid>1014</codeid>
+        <description>
+        Description of InDesign training and work.
+        </description>
+        <github></github>
+    </code>
+    <code>
+        <codetitle>SASS</codetitle>
+        <codeid>1015</codeid>
+        <description>
+        Description of SASS training and work.
+        </description>
+        <github></github>
+    </code>
+    <code>
+        <codetitle>Cordova</codetitle>
+        <codeid>1016</codeid>
+        <description>
+        Description of Cordova training and work.
+        </description>
+        <github></github>
+    </code>
+    <code>
+        <codetitle>MySQL</codetitle>
+        <codeid>1017</codeid>
+        <description>
+        Description of MySQL training and work.
+        </description>
+        <github></github>
+    </code>
+    <code>
+        <codetitle>MongoDB</codetitle>
+        <codeid>1018</codeid>
+        <description>
+        Description of MongoDB training and work.
+        </description>
+        <github></github>
+    </code>
+    <code>
+        <codetitle>Linux</codetitle>
+        <codeid>1019</codeid>
+        <description>
+        Description of Linux training and work.
+        </description>
+        <github></github>
+    </code>
+    <code>
+        <codetitle>Apache</codetitle>
+        <codeid>1020</codeid>
+        <description>
+        Description of Apache training and work.
+        </description>
+        <github></github>
+    </code>
+    <code>
+        <codetitle>JAVA</codetitle>
+        <codeid>1021</codeid>
+        <description>
+        Description of Java training and work.
+        </description>
+        <github></github>
+    </code>
+</codelist>

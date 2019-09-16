@@ -1,0 +1,71 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #000;
+$black: #000;
+$offwhite: #F8F8F8;
+$linderwhite: #EDEDED;
+
+// No media query necessary for xs breakpoint as it's effectively `@media (min-width: 0) { ... }`
+@include media-breakpoint-up(sm) { 
+  .glib {
+    border:red 1px solid;
+  }
+ }
+@include media-breakpoint-up(md) {
+  .glib {
+    border:green 1px solid;
+  }
+}
+@include media-breakpoint-up(lg) {
+  .glib {
+    border:purple 1px solid;
+  }
+}
+@include media-breakpoint-up(xl) {
+  .glib {
+    border:yellow 1px solid;
+  }
+}
+
+.glib {
+  border:brown 3px solid;
+}
+
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+  background: $offwhite;
+}
+
+.leifbar {
+  background-color: $linderwhite;
+}
+
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #000;
+  background: #F8F8F8; 
+}
+
+  .lindernav {
+    color: #666666;
+    background-color: #EDEDED;
+    font-size:130%;
+    height:4em;
+  }
+
+  .navbar-brand img #site-logo{
+    width: 150px;
+    border:solid red 1px;
+  }
+
+  .navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background-size: auto;
+    background-size: 100% 100%;
+}
+

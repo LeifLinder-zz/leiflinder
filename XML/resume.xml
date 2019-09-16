@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume>
+
+    <personalinfo>
+            <myname>Leif Linder</myname>
+            <sted>
+                <mycountry>NORWAY</mycountry>
+                <myaddress>Olav Aukrust Vei 4C</myaddress>
+                <mycity>Oslo</mycity>
+                <mymobilephone>+47 46 901 863</mymobilephone>
+            </sted>
+            <sted>
+                <mycountry>USA</mycountry>
+                <myaddress> 3716 NE 57th</myaddress>
+                <mycity> Seattle</mycity>
+                <mymobilephone>206 330 4784</mymobilephone>
+            </sted>
+            <myemail>leif@leiflinder.com</myemail>
+            <mylinkin>leiflinkin</mylinkin>
+            <mygithub>leifgithub</mygithub>
+    </personalinfo>
+
+    <resumetexts>
+        <intro>
+        <p>Hello, my name is Leif Linder. I am a web developer from Seattle Washington but have lived all over the world. I studied Web Developing in New York and worked as on primarily PHP based web applications for many years.</p>
+        <p>Although coding is my current professional I have worked in the stock photography business as an image researcher and supplier of images.</p>
+        <p>My college education is in Media and writing for media and new writing. I am maninly professionally concerned with creating documents, whether that be as web code or images or news and journalism.</p>
+        </intro>
+        <personalitytype>
+        INTP
+        </personalitytype>
+        <personality>
+        <p>I am a highly creative person according to personality testing and rely heavily on intuition. I am mostly interested in the heavy subjects and am not great at small talk but can become quite passionate when talking about ideas or concepts.</p>
+        <p>Although I have an INTP personality type I am not a cold nerd and I truly care about people's feelings. My empathy for people is high and I am concerned about the generally happiness of my workplace and maintaining personal communications by always treating my coworkers with respect. I don't gossip or create unwarranted drama.</p>
+        </personality>
+    </resumetexts>
+    <jobs>
+        <job>
+            <jobid>1001</jobid>
+            <jobtitle>Industrial Athlete</jobtitle>
+            <joblocation>Oslo, Norway</joblocation>
+            <jobstart>November 2016</jobstart>
+            <jobfinish>September 2019</jobfinish>
+            <companyname>Foodora AS</companyname>
+            <companyaddress>Olso Norway</companyaddress>
+            <jobdescription><p>Martian Rocket</p></jobdescription>
+        </job>
+        <job>
+            <jobid>1002</jobid>
+            <jobtitle>Manager, Digital Integration and Design</jobtitle>
+            <companyname>New York Road Runners</companyname>
+            <joblocation>New York, New York</joblocation>
+            <jobstart>October 2012</jobstart>
+            <jobfinish>September 2015</jobfinish>
+            <jobdescription>
+            <p>As Web Manager and PHP developer I maintained and extended two large drupal websites, compiled user analytics and improved SEO. I coded dozens of single page websites, kiosk portals and full custom PHP CMS systems and while communicating regularly with project managers and developers overseas.</p>
+            </jobdescription>
+        </job>
+        <job>
+            <jobid>1003</jobid>
+            <jobtitle>Web Developer</jobtitle>
+            <companyname>StarPoint Solutions</companyname>
+            <joblocation>New York, New York</joblocation>
+            <jobstart>2011</jobstart>
+            <jobfinish>2012</jobfinish>
+            <jobdescription>
+            <p>Built HTML pages for New York Road Runners, New York City Marathon. Built PHP Sweepstakes web applications for runners to win entry. </p>
+            </jobdescription>
+        </job>
+        <job>
+            <jobid>1004</jobid>
+            <jobtitle>Web Developer</jobtitle>
+            <companyname>McFadden Media Inc</companyname>
+            <joblocation>New York, New York</joblocation>
+            <jobstart>2009</jobstart>
+            <jobfinish>2010</jobfinish>
+            <jobdescription>
+            <p>I built three drupal websites for McFadden Media. Point Magazine, Dance Teacher News and Dance Retailer News. In addition I created an internal website for employees use.</p>
+            </jobdescription>
+        </job>
+    </jobs>
+</resume>
+
+

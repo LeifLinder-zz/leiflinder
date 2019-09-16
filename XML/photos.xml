@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<photos>
+   <photo>
+      <photoid>10001</photoid>
+      <title>Restrained by police</title>
+      <imgsrc>./assets/BW/Horizontal/10001.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10001-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10002</photoid>
+      <title>Man on beach</title>
+      <imgsrc>./assets/BW/Horizontal/10002.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10002-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10003</photoid>
+      <title>NYC Taxi bunny suit</title>
+      <imgsrc>./assets/BW/Horizontal/10003.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10003-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10004</photoid>
+      <title>Chinese restaurant mother and daughter</title>
+      <imgsrc>./assets/BW/Horizontal/10004.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10004-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10005</photoid>
+      <title>Chris Hill at Columbus Bakery NYC</title>
+      <imgsrc>./assets/BW/Horizontal/10005.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10005-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10006</photoid>
+      <title>David and Anna Marie acting silly</title>
+      <imgsrc>./assets/BW/Horizontal/10006.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10006-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10007</photoid>
+      <title>Girls on police barrier NYC</title>
+      <imgsrc>./assets/BW/Horizontal/10007.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10007-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10008</photoid>
+      <title>East Village NYC guy on vintage motorcycle</title>
+      <imgsrc>./assets/BW/Horizontal/10008.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10008-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10009</photoid>
+      <title>Hyenna pacing pen</title>
+      <imgsrc>./assets/BW/Horizontal/10009.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10009-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10010</photoid>
+      <title>NYC subway bronx pet iguana</title>
+      <imgsrc>./assets/BW/Horizontal/10010.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10010-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10011</photoid>
+      <title>NYC restaurant woman drinking</title>
+      <imgsrc>./assets/BW/Horizontal/10011.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10011-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10012</photoid>
+      <title>NYC lovers in ice cream truck</title>
+      <imgsrc>./assets/BW/Horizontal/10012.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10012-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10013</photoid>
+      <title>NYC tribal tattoos on mailbox</title>
+      <imgsrc>./assets/BW/Horizontal/10013.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10013-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10014</photoid>
+      <title>NYC buildings night sky</title>
+      <imgsrc>./assets/BW/Horizontal/10014.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10014-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10015</photoid>
+      <title>Teresa at Coney Island</title>
+      <imgsrc>./assets/BW/Horizontal/10015.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10015-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10017</photoid>
+      <title>Van and Porto Rico Coffee</title>
+      <imgsrc>./assets/BW/Horizontal/10017.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Horizontal/10017-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10018</photoid>
+      <title>Fighter jets above Coney Island</title>
+      <imgsrc>./assets/BW/Vertical/10018.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Vertical/10018-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Vertical</orientation>
+   </photo>
+   <photo>
+      <photoid>10019</photoid>
+      <title>Young man on vintage motorcycle NYC</title>
+      <imgsrc>./assets/BW/Vertical/10019.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Vertical/10019-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Vertical</orientation>
+   </photo>
+   <photo>
+      <photoid>10020</photoid>
+      <title>Hasidic man Williamsburg Brooklyn</title>
+      <imgsrc>./assets/BW/Vertical/10020.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Vertical/10020-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Vertical</orientation>
+   </photo>
+   <photo>
+      <photoid>10021</photoid>
+      <title>Jen the comedian Hell's Kitchen NYC</title>
+      <imgsrc>./assets/BW/Vertical/10021.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Vertical/10021-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Vertical</orientation>
+   </photo>
+   <photo>
+      <photoid>10022</photoid>
+      <title>Fireman standing East Village NYC</title>
+      <imgsrc>./assets/BW/Vertical/10022.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Vertical/10022-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Vertical</orientation>
+   </photo>
+   <photo>
+      <photoid>10023</photoid>
+      <title>Older tatooed man Coney Island, Brooklyn</title>
+      <imgsrc>./assets/BW/Vertical/10023.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Vertical/10023-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Vertical</orientation>
+   </photo>
+   <photo>
+      <photoid>10024</photoid>
+      <title>Music guy holding revolver under chin</title>
+      <imgsrc>./assets/BW/Vertical/10024.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Vertical/10024-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Vertical</orientation>
+   </photo>
+   <photo>
+      <photoid>10025</photoid>
+      <title>Man in fur selling pornography, NYC</title>
+      <imgsrc>./assets/BW/Vertical/10025.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Vertical/10025-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Vertical</orientation>
+   </photo>
+   <photo>
+      <photoid>10026</photoid>
+      <title>Commuters ascending subway stairs, NYC</title>
+      <imgsrc>./assets/BW/Vertical/10026.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Vertical/10026-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Vertical</orientation>
+   </photo>
+   <photo>
+      <photoid>10028</photoid>
+      <title>Fiona Stone Barns Farm Tarrytown, New York</title>
+      <imgsrc>./assets/Color/Horizontal/10028.png</imgsrc>
+      <imgsrcLarge>./assets/Color/Horizontal/10028-Large.png</imgsrcLarge>
+      <type>Color</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10029</photoid>
+      <title>Man pinching baby's cheek</title>
+      <imgsrc>./assets/Color/Horizontal/10029.png</imgsrc>
+      <imgsrcLarge>./assets/Color/Horizontal/10029-Large.png</imgsrcLarge>
+      <type>Color</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10030</photoid>
+      <title>Mermaid Parade Coney Island</title>
+      <imgsrc>./assets/Color/Horizontal/10030.png</imgsrc>
+      <imgsrcLarge>./assets/Color/Horizontal/10030-Large.png</imgsrcLarge>
+      <type>Color</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10031</photoid>
+      <title>Girl in pink shirt</title>
+      <imgsrc>./assets/Color/Horizontal/10031.png</imgsrc>
+      <imgsrcLarge>./assets/Color/Horizontal/10031-Large.png</imgsrcLarge>
+      <type>Color</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10032</photoid>
+      <title>Boy with rockets on Beach</title>
+      <imgsrc>./assets/Color/Horizontal/10032.png</imgsrc>
+      <imgsrcLarge>./assets/Color/Horizontal/10032-Large.png</imgsrcLarge>
+      <type>Color</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10033</photoid>
+      <title>Boy at Disney World</title>
+      <imgsrc>./assets/Color/Horizontal/10033.png</imgsrc>
+      <imgsrcLarge>./assets/Color/Horizontal/10033-Large.png</imgsrcLarge>
+      <type>Color</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10034</photoid>
+      <title>Man in sunlight</title>
+      <imgsrc>./assets/Color/Horizontal/10034.png</imgsrc>
+      <imgsrcLarge>./assets/Color/Horizontal/10034-Large.png</imgsrcLarge>
+      <type>Color</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10035</photoid>
+      <title>Monks in Central Park NYC</title>
+      <imgsrc>./assets/Color/Horizontal/10035.png</imgsrc>
+      <imgsrcLarge>./assets/Color/Horizontal/10035-Large.png</imgsrcLarge>
+      <type>Color</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+      <photo>
+      <photoid>10036</photoid>
+      <title>Birdwatcher in Central Park NYC</title>
+      <imgsrc>./assets/Color/Horizontal/10036.png</imgsrc>
+      <imgsrcLarge>./assets/Color/Horizontal/10036-Large.png</imgsrcLarge>
+      <type>Color</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10037</photoid>
+      <title>Wambui Rio de Janiero, Ipanema Beach</title>
+      <imgsrc>./assets/Color/Horizontal/10037.png</imgsrc>
+      <imgsrcLarge>./assets/Color/Horizontal/10037-Large.png</imgsrcLarge>
+      <type>Color</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10038</photoid>
+      <title>Cross process woman in asian restaurant</title>
+      <imgsrc>./assets/Color/Vertical/10038.png</imgsrc>
+      <imgsrcLarge>./assets/Color/Vertical/10038-Large.png</imgsrcLarge>
+      <type>Color</type>
+      <orientation>Vertical</orientation>
+   </photo>
+   <photo>
+      <photoid>10039</photoid>
+      <title>Space Needle Christmas Seattle USA</title>
+      <imgsrc>./assets/BW/Vertical/10039.png</imgsrc>
+      <imgsrcLarge>./assets/BW/Vertical/10039-Large.png</imgsrcLarge>
+      <type>BW</type>
+      <orientation>Vertical</orientation>
+   </photo>
+   <photo>
+      <photoid>10040</photoid>
+      <title>Girl with sunlight Central Park NYC</title>
+      <imgsrc>./assets/Color/Horizontal/10040.png</imgsrc>
+      <imgsrcLarge>./assets/Color/Horizontal/10040-Large.png</imgsrcLarge>
+      <type>Color</type>
+      <orientation>Horizontal</orientation>
+   </photo>
+   <photo>
+      <photoid>10041</photoid>
+      <title>Boy on boardwalk Coney Island, NY</title>
+      <imgsrc>./assets/Color/Vertical/10041.png</imgsrc>
+      <imgsrcLarge>./assets/Color/Vertical/10041-Large.png</imgsrcLarge>
+      <type>Color</type>
+      <orientation>Vertical</orientation>
+   </photo>
+</photos>

@@ -1,0 +1,396 @@
+
+p {
+  line-height: 1.5;
+}
+.wrapper {
+  background: white;
+  max-width: 960px;
+  min-height: 900px;
+  margin: 0 auto;
+  margin-bottom:3em;
+  position: relative;
+  border:solid 1px #ccc;
+  -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+.sidebar-wrapper {
+  background: white;
+  position: absolute;
+  right: 0;
+  width: 240px;
+  height: 100%;
+  min-height: 800px;
+  color: #444;
+  border-left:solid 1px #ccc;
+}
+.sidebar-wrapper a {
+  color: #444;
+}
+.sidebar-wrapper img {
+  border:solid 1px #ccc;
+}
+.sidebar-wrapper .profile-container {
+  padding: 30px;
+  background: white;
+  text-align: center;
+  color: #444;
+}
+.sidebar-wrapper .name {
+  font-size: 32px;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 10px;
+  color:#555;
+}
+.sidebar-wrapper .tagline {
+  color: #666;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.sidebar-wrapper .profile {
+  margin-bottom: 15px;
+}
+.sidebar-wrapper .contact-list .fa {
+  margin-right: 5px;
+  font-size: 18px;
+  vertical-align: middle;
+}
+.sidebar-wrapper .contact-list li {
+  margin-bottom: 15px;
+}
+.sidebar-wrapper .contact-list li:last-child {
+  margin-bottom: 0;
+}
+.sidebar-wrapper .contact-list .email .fa {
+  font-size: 14px;
+}
+.sidebar-wrapper .container-block {
+  padding: 30px;
+}
+.sidebar-wrapper .container-block-title {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+.sidebar-wrapper .degree {
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.sidebar-wrapper .education-container .item {
+  margin-bottom: 15px;
+}
+.sidebar-wrapper .education-container .item:last-child {
+  margin-bottom: 0;
+}
+.sidebar-wrapper .education-container .meta {
+  color: #444;
+  font-weight: 500;
+  margin-bottom: 0px;
+  margin-top: 0;
+}
+.sidebar-wrapper .education-container .time {
+  color: #444;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+.sidebar-wrapper .languages-container .lang-desc {
+  color: #444;
+}
+.sidebar-wrapper .languages-list {
+  margin-bottom: 0;
+}
+.sidebar-wrapper .languages-list li {
+  margin-bottom: 10px;
+}
+.sidebar-wrapper .languages-list li:last-child {
+  margin-bottom: 0;
+}
+.sidebar-wrapper .interests-list {
+  margin-bottom: 0;
+}
+.sidebar-wrapper .interests-list li {
+  margin-bottom: 10px;
+}
+.sidebar-wrapper .interests-list li:last-child {
+  margin-bottom: 0;
+}
+.main-wrapper {
+  background: #fff;
+  padding: 60px;
+  padding-right: 300px;
+}
+.main-wrapper .section-title {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 500;
+  color: #666;
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.main-wrapper .section-title .fa {
+  width: 30px;
+  height: 30px;
+  margin-right: 8px;
+  display: inline-block;
+  color: #fff;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  background: #555;
+  text-align: center;
+  padding-top: 8px;
+  font-size: 16px;
+  position: relative;
+  top: -2px;
+}
+.main-wrapper .section {
+  margin-bottom: 60px;
+}
+.main-wrapper .experiences-section .item {
+  margin-bottom: 30px;
+}
+.main-wrapper .upper-row {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 2px;
+}
+.main-wrapper .job-title {
+  color: #777;
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+.main-wrapper .time {
+  position: absolute;
+  right: 0;
+  top: 0;
+  color: #777;
+}
+.main-wrapper .company {
+  margin-bottom: 10px;
+  color: #777;
+}
+.main-wrapper .project-title {
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.main-wrapper .projects-section .intro {
+  margin-bottom: 30px;
+}
+.main-wrapper .projects-section .item {
+  margin-bottom: 15px;
+}
+.skillset .item {
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+.skillset .level-title {
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+.skillset .level-bar {
+  height: 12px;
+  color: #777;
+}
+.skillset .level-bar-inner {
+  height: 12px;
+  background: #7bc2d3;
+}
+
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 767px) {
+  .sidebar-wrapper {
+    position: static;
+    width: inherit;
+  }
+  .main-wrapper {
+    padding: 30px;
+  }
+  .main-wrapper .time {
+    position: static;
+    display: block;
+    margin-top: 5px;
+  }
+  .main-wrapper .upper-row {
+    margin-bottom: 0;
+  }
+
+}
+/* Small devices (tablets, 768px and up) */
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .skillset .level-title {
+    display: inline-block;
+    float: left;
+    width: 30%;
+    margin-bottom: 0;
+  }
+  .skillset .level-bar {
+    display: inline-block;
+    width: 70%;
+    float: left;
+    position: relative;
+    top: 1px;
+  }
+    
+}
+.fa-skill-level {
+	font-size:130%;
+}
+.portfolio-items a {
+	color:#000099;
+}
+.portfolio-items {
+	color:#000099;
+}
+.gallery
+{
+    display: inline-block;
+    margin-top: 20px;
+}
+#portfolio_links{
+}
+#portfolio_links .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    border-top: 1px solid white;
+}
+.thumbnail {
+	background-color:transparent;
+}
+
+
+body.modal-open {
+    overflow: auto;
+}
+.modal_blow_up_image {
+	margin: 0px auto;
+	display: block;
+}
+.modal_blow_up_text {
+	padding-bottom:10px;
+	width:100%;
+}
+.makebig {
+  font-size:20px;
+  color:black;
+}
+ .done{
+ 	color:#777;
+ }
+  .notdone{
+ 	color:black;
+ }
+
+ #skills_offered_h {
+	display:block;
+	width:230px;
+	text-align:center;
+	margin:0px auto;
+	height:130px;
+	padding-bottom:70px;
+	padding-top:20px;
+	background-image:url('http://localhost/leiflinder.com/public04/design/ornament.png');
+	background-repeat:no-repeat;
+	background-position: bottom;
+
+}
+.skill_tags li {
+	margin-bottom: 10px;
+	list-style: none;
+}
+
+.skill_tags {
+	list-style: none;
+}
+.index_container {
+	padding-bottom:80px;
+}
+.text_center{
+	text-align: center;
+	width:100%;
+	display:block;
+	padding-bottom:10px;
+	border-bottom:1px #ccc solid;
+	margin-bottom:10px;
+}
+.image_border {
+border: solid #ccc 2%;
+}
+.img_center{
+	margin-right:auto;
+	margin-left:auto;
+	display:block;
+	text-align:center;
+}
+.padding_guy{
+	padding:20px;
+}
+
+.big_title {
+	font-weight:600;
+}
+.grey_text {
+	color:grey;
+	
+}
+#ornament_image{
+	width:20%;
+}
+
+@media (max-width: 993px) {
+    .skill_tags li {
+    	display:block;
+    	float:left;   	
+    	margin-right: 4%;
+    }
+}
+
+@media (max-width: 772px) {
+    .padding_guy_text{
+    padding-top:0;
+    padding-right:20px;
+    padding-left:20px;
+    padding-bottom:0px;
+    }
+}
+@media (min-width: 772px) {
+   .padding_guy_text{
+    padding:20px;
+    }
+}
+#skills_title_row{
+	margin-bottom:70px;
+	margin-top: 75px;
+}
+   .change_height {
+    height:20px;
+    width:100px;
+    }
+  .fa {
+	  font-size:120%;
+  }
+  .clear_left{
+  	clear:left;
+  }
+  .sidebar-wrapper .fa, .sidebar-wrapper .fa a{
+  	font-size:100%;
+  }
+#content_wrapper {
+    min-height:750px;
+    padding-bottom:120px;
+}

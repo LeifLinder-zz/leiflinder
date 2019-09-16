@@ -1,0 +1,358 @@
+.navbar {
+    background:#EDEDED;
+    background:white;
+    /*font-family: 'Oswald', sans-serif;*/
+    font-family: 'Arial', sans-serif;
+    font-size: 140%;
+    color:black;
+  }
+body {
+    background:#EDEDED;
+    background:white;
+  }
+.nav-item {
+    margin:0 .5em;
+}
+
+.breadcrumb {
+  background:white;
+}
+
+.skills-list {
+   font-size:120%;
+   margin: 2em 0 0 0;
+}
+.container {
+  max-width: 960px;
+}
+
+#widthdiv {
+  width:300px;
+  height:30px;
+  padding:5px;
+  float:right;
+  margin:10px;
+}
+#widthdiv:after {
+ content:"Screen Width";
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) {
+  #widthdiv {
+    background-color:purple;
+  }
+  #widthdiv:after {
+    content:"max-width: 576px";
+   }
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+ #widthdiv {
+   background-color:red; 
+ }
+ .thumb img {
+  width:100%;
+}
+ #widthdiv:after {
+  content:"min-width: 576px";
+ }
+ .small_float_left{
+   float:left;
+ }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  #widthdiv {
+    background-color:green;
+  }
+  #widthdiv:after {
+    content:"min-width: 768px";
+   } 
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+  #widthdiv {
+    background-color:blue;
+  }
+  #widthdiv:after {
+    content:"min-width: 992px";
+   } 
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+  #widthdiv {
+    background-color:yellow;
+  }
+  #widthdiv:after {
+    content:"min-width: 1200px";
+   } 
+}
+.center_image{
+  display:block;
+  margin:0px auto;
+}
+#page {
+  min-height:850px;
+}
+
+#content {
+  min-height:800px;
+}
+
+.jumbotron {
+  width:90%;
+  margin:0px auto;
+}
+.friendlyspace{
+  height:2.5em;
+}
+#spak ul {
+  list-style:none;
+  display:block;
+  float:right;
+  margin-right:10%;
+}
+#spak ul li {
+  float:left;
+}
+#spak ul li a{
+ padding:0px 5px;
+}
+.masthead{
+  padding-bottom:1.2em;
+  padding-top: 0.5em;
+}
+.clear_left {
+  clear:left;
+}
+.skillsrow{
+  padding-bottom:4em;
+}
+.skills-list ul li {
+  list-style: none;
+}
+.skills-list li {
+ list-style-image: url("http://localhost/leiflinder05/src/assets/bullet.png");
+}
+.skills-list li a{
+  padding:4px;
+ }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.skillsrow a:link {
+  color:#555;
+  font-weight: 600;
+}
+.skillsrow a:visited {
+  color:#555;
+}
+.skillsrow a:hover {
+  color:red;
+}
+.skillsrow a:active {
+  color:red;
+}
+
+.skillsrow li a:link {
+  color:#555;
+  font-weight: 500;
+  text-decoration: none;
+}
+.skillsrow li a:visited {
+  color:#555;
+  text-decoration: none;
+}
+.skillsrow li a:hover {
+  color:red;
+  text-decoration: none;
+}
+.skillsrow li a:active {
+  color:red;
+  text-decoration: none;
+}
+
+.skillsrow .whitefont:link {
+  color:white;
+  font-weight: 500;
+  text-decoration: none;
+}
+.skillsrow .whitefont:visited {
+  color:white;
+  text-decoration: none;
+}
+.skillsrow .whitefont:hover {
+  color:#ccc;
+  text-decoration: none;
+}
+.skillsrow .whitefont:active {
+  color:#ccc;
+  text-decoration: none;
+}
+.footergradient{
+  background-image: url('http://localhost/leiflinder05/src/assets/footer-gradient.png');
+  background-repeat: repeat-x;
+  background-color: white;
+}
+.jumbotron{
+  background-color: white;
+}
+.skillcard{
+  display:block;
+  float:left;
+  margin:3px;
+  border:solid white 4px;
+}
+
+.skillcard:hover{
+ background: #f2f2f2;
+  cursor: pointer;
+  -webkit-transition: background-color 1000ms linear;
+  -ms-transition: background-color 1000ms linear;
+  transition: background-color 1000ms linear;
+}
+
+.skillcard .card-text {
+  height:10em;
+  overflow: hidden;
+}
+.skillcard a {
+ text-decoration: none;
+}
+
+.btn-git {
+  background: #999999;
+  color:white;
+}
+.btn-git:hover{
+  background:black;
+  color:white;
+}
+.skillrow {
+  margin-bottom:3em;
+}
+.h1space {
+  margin-bottom:1em;
+  padding-left:1.5em;
+}
+
+.skill_label_div a {
+  color:white;
+}
+
+.align_right{
+padding-top:20px;
+text-align: right;
+}
+.codeskills_title{
+ /* background: #33CCFF;*/
+  padding:4px 2px 2px 6px;
+  background-image: url('http://localhost/leiflinder05/src/assets/bg-skill-label5.png');
+  background-position: left;
+  background-repeat: no-repeat;
+  height:42px;
+}
+.codeskills_title:hover{
+   background-position: right;
+ }
+
+.codeskills_title  {
+  color:white;
+  size:80%;
+}
+
+.breadcrumb-item {
+  font-size: 110%;
+}
+.skill_widget a:link{
+ color:#333;
+ text-decoration: none;
+ padding:3px;
+}
+.skill_widget a:visited{
+  color:#333;
+}
+.skill_widget a:hover{
+  color:#33CCFF;
+}
+.skill_widget a:active{
+  color:#33CCFF;
+}
+.row .col-md-4 .skill_widget{
+  margin-top:0px;
+}
+.intro_text_paragraph {
+  font-size:120%;
+}
+
+.glib {
+  border:brown 3px solid;
+}
+
+.phototypes{
+  margin-bottom: 1em;
+}
+
+body{
+  background-image: url("http://localhost/leiflinder05/src/assets/bg-header.png");
+  background-repeat: repeat-x;
+}
+.photo-div {
+  color:black;
+}
+
+.photoLargeModal{
+  padding:1em;
+  background-color: white;
+  margin:0px auto;
+  position: fixed;
+  /* center the element */
+  right: 0;
+  left: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+.Vertical {
+  width:730px;
+}
+.Horizontal {
+  width:847px;
+}
+.modal-dialog{
+  max-width:1200px;
+  padding:0px;
+  margin:0px;
+}
+.modal-header{
+  margin-top:0px;
+}
+.modal-body{
+  padding:0px;
+}
+.photo-content {
+  padding:0px;
+}
+.border1 {
+  border:solid 10px #ccc;
+}
+.card {
+  margin-bottom:10px;
+ /* border:solid red 1px*/
+}
+.linder-card {
+  border:solid red 1px
+}
+.spec .linder-card {
+  border:solid white 1px
+}
+.breadcrumb{
+  margin-bottom:0px;
+  background:transparent;
+}

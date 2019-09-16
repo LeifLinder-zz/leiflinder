@@ -1,0 +1,38 @@
+$bg-color: red; 
+$linderwhite: #EDEDED;
+$linderdark: #666666;
+
+body {
+    background: $linderwhite;
+}
+
+.lindernav {
+    background-color: $linderwhite;
+    color: $linderdark;
+}
+
+// No media query necessary for xs breakpoint as it's effectively `@media (min-width: 0) { ... }`
+@include media-breakpoint-up(sm) { 
+    .glib {
+      border:red 1px solid;
+    }
+   }
+  @include media-breakpoint-up(md) {
+    .glib {
+      border:green 1px solid;
+    }
+  }
+  @include media-breakpoint-up(lg) {
+    .glib {
+      border:purple 1px solid;
+    }
+  }
+  @include media-breakpoint-up(xl) {
+    .glib {
+      border:yellow 1px solid;
+    }
+  }
+  
+  .glib {
+    border:brown 3px solid;
+  }
