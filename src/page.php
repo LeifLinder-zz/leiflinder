@@ -12,6 +12,9 @@ include('./includes/header.php');
         case "about":
             include('includes/about.php');
             break;
+            case "about3":
+            include('includes/about3.php');
+            break;
         case "photography":
             include('includes/photography.php');
             break;

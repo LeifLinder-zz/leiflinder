@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <about>
-    <aboutme>
-    <p>I am orginally from a city call Seattle in state of Washington. Washington is just below Canada in the upper Northwest corner of America. I moved to New York City when I turned 30 but lived for a short time im London and Alaska beforehand. In New York City I had two distinct careers first in the Stock Photography industry and then as a PHP web developer for several companies.</p>
-<p>Later our small family moved to Oslo Norway. My wife is a Norwegian national and so we thought it would be fun to try and live there for a while. In the course of 4 years I studied Norwegian language and passed my B1 language certification in addition to working a non professional job and continuing code training.</p>
-    </aboutme>
-    <freetime>
-    </freetime>
-    <future>
-    </future>
+    <personalinfo>
+            <myname>Leif Linder</myname>
+            <sted>
+                <mycountry>NORWAY</mycountry>
+                <myaddress>Olav Aukrust Vei 4C</myaddress>
+                <mycity>Oslo</mycity>
+                <mymobilephone>+47 46 901 863</mymobilephone>
+            </sted>
+            <sted>
+                <mycountry>USA</mycountry>
+                <myaddress> 3716 NE 57th</myaddress>
+                <mycity> Seattle</mycity>
+                <mymobilephone>206 330 4784</mymobilephone>
+            </sted>
+            <myemail>leif@leiflinder.com</myemail>
+            <mylinkin>leiflinkin</mylinkin>
+            <mygithub>leifgithub</mygithub>
+    </personalinfo>
+   <resumetexts>
+        <intro>
+        <p>Hello, my name is Leif Linder. I am a web developer from Seattle Washington but have lived all over the world. I studied Web Developing in New York and worked as on primarily PHP based web applications for many years.</p>
+        <p>Although coding is my current professional I have worked in the stock photography business as an image researcher and supplier of images.</p>
+        <p>My college education is in Media and writing for media and new writing. I am maninly professionally concerned with creating documents, whether that be as web code or images or news and journalism.</p>
+        </intro>
+        <freetime>
+        <p>Hello, my name is Leif Linder. I am a web developer from Seattle Washington but have lived all over the world. I studied Web Developing in New York and worked as on primarily PHP based web applications for many years.</p>
+        <p>Although coding is my current professional I have worked in the stock photography business as an image researcher and supplier of images.</p>
+        <p>My college education is in Media and writing for media and new writing. I am maninly professionally concerned with creating documents, whether that be as web code or images or news and journalism.</p>
+        </freetime>
+        <personalitytype>
+        INTP
+        </personalitytype>
+        <personality>
+        <p>I am a highly creative person according to personality testing and rely heavily on intuition. I am mostly interested in the heavy subjects and am not great at small talk but can become quite passionate when talking about ideas or concepts.</p>
+        <p>Although I have an INTP personality type I am not a cold nerd and I truly care about people's feelings. My empathy for people is high and I am concerned about the generally happiness of my workplace and maintaining personal communications by always treating my coworkers with respect. I don't gossip or create unwarranted drama.</p>
+        </personality>
+    </resumetexts>
+    <goals>
+        <p>sdfa sdfasdfasd fas fdasdfa sdfasdfas  asdf  sadf  s asd a</p>
+        <p>sdfa sdfasdfasd fas fdasdfa sdfasdfas  asdf  sadf  s asd a</p>
+        <p>sdfa sdfasdfasd fas fdasdfa sdfasdfas  asdf  sadf  s asd a</p>
+    </goals>
 </about>

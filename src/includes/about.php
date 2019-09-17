@@ -1,45 +1,67 @@
+<?php include('../classes/class.codeskills.view.php');?>
+<?php include('../classes/class.about.view.php');?>
+<?php $resumetexts = new about;?>
 
-<link rel="stylesheet" href="./css/resume.css">
+	<link rel="stylesheet" href="./css/resume.css">
 
-<div class="container">
-    <ul class="nav nav-tabs" id="myTab" role="tablist">
-        <li class="nav-item">
-            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">About Me</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" id="freetime-tab" data-toggle="tab" href="#freetime" role="tab" aria-controls="freetime" aria-selected="false">What I Like</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">What I Want</a>
-        </li>
-    </ul>
-</div>
+	<div class="container">
+		<ul class="nav nav-tabs" id="myTab" role="tablist">
+			<li class="nav-item"> <a class="nav-link active" id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="resume" aria-selected="true">About</a>
+			</li>
+			<li class="nav-item"> <a class="nav-link" id="freetime-tab" data-toggle="tab" href="#freetime" role="tab" aria-controls="freetime" aria-selected="false">Freetime</a>
+			</li>
+			<li class="nav-item"> <a class="nav-link" id="goals-tab" data-toggle="tab" href="#goals" role="tab" aria-controls="goals" aria-selected="false">Goals</a>
+			</li>
+		</ul>
+	</div>
 
-<div class="tab-content" id="myTabContent">
-    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-        <div class="wrapper">
-            <?PHP include( './includes/sidebar.php');?>
-            <div class="main-wrapper">
-            <section class="section summary-section">
-                <h2 class="section-title">About Me</h2>
-                <div class="summary">
-            <?PHP // include( './includes/my_story.php');?>
-            </div><!--//summary-->
-            </section><!--//section-->
-        </div><!--//main-body-->
-        </div>
-    </div>
 
-    <div class="tab-pane fade" id="freetime" role="tabpanel" aria-labelledby="profile-tab">
-        <div class="wrapper">
-            <?PHP include( './includes/sidebar.php');?>
-            <?PHP include( './includes/my_fun.php');?>
-        </div>
-    </div>
-    <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-        <div class="wrapper">
-            <?PHP include( './includes/sidebar.php');?>
-            <?PHP include( './includes/my_ambitions.php');?>
-        </div>
-    </div>
-</div>
+	<div class="tab-content" id="tabcontent">
+
+		<div class="tab-pane fade show active" id="about" role="tabpanel" aria-labelledby="resume-tab">
+			<div class="wrapper">
+				<div class="sidebar-wrapper">
+					<div class="profile-container">
+						<p>Side panel</p>
+					</div>
+				</div>
+				<div class="main-wrapper">
+					<h4>About Me</h4>
+					<?php // $resumetexts->aboutme();?>
+					<?php // $resumetexts->personality();?>
+				</div>
+			</div>
+		</div>
+	
+
+
+		<div class="tab-pane fade show active" id="freetime" role="tabpanel" aria-labelledby="resume-tab">
+			<div class="wrapper">
+				<div class="sidebar-wrapper">
+					<div class="profile-container">
+						<?php // $personal->showPersonalArray($personal->personal_array);?>
+						<p>Side panel</p>
+					</div>
+				</div>
+				<div class="main-wrapper">
+					<h3>Freetime</h3>
+					<?php //$resumetexts->freetime();?>
+				</div>
+			</div>
+		</div>
+
+		
+		<div class="tab-pane fade" id="goals" role="tabpanel" aria-labelledby="goals-tab">
+			<div class="wrapper">
+				<div class="sidebar-wrapper">
+					<div class="profile-container">
+						<?php //$personal->showPersonalArray($personal->personal_array);?>
+						<h3>Side panel</h3>
+					</div>
+				</div>
+				<div class="main-wrapper">
+					<p>Goals</p>
+				</div>
+			</div>
+		</div>
+	</div>

@@ -1,5 +1,5 @@
-<?php include('../classes/class.resume.view.php');?>
-<?php $personal = new codeskills;?>
+<?php include('../classes/class.codeskills.view.php');?>
+<?php// $personal = new codeskills;?>
 <link rel="stylesheet" href="./css/resume.css">
 
 <div class="container">
@@ -22,23 +22,26 @@
         <div class="wrapper">
         <div class="sidebar-wrapper">
         <div class="profile-container">
-        <?php $personal->showPersonalArray($personal->personal_array);?>
+        <?php //$personal->showPersonalArray($personal->personal_array);?>
+        <p>Side panel</p>
         </div>
         </div>
             <h3>Resume</h3>
-            <?php $personal->showIntroText(); ?>
+            <?php // $personal->showIntroText(); ?>
         </div>
     </div>
 
     
-    <div class="tab-pane fade" id="skills" role="tabpanel" aria-labelledby="skills-tab">
+    <div class="tab-pane fade show active" id="skills" role="tabpanel" aria-labelledby="resume-tab">
         <div class="wrapper">
         <div class="sidebar-wrapper">
         <div class="profile-container">
-        <?php $personal->showPersonalArray($personal->personal_array);?>
+        <?php //$personal->showPersonalArray($personal->personal_array);?>
+        <p>Side panel</p>
         </div>
         </div>
-            <p>Skills</p>
+            <h3>Skills</h3>
+            <?php // $personal->showIntroText(); ?>
         </div>
     </div>
 
@@ -47,7 +50,8 @@
         <div class="wrapper">
             <div class="sidebar-wrapper">
                 <div class="profile-container">
-                <?php $personal->showPersonalArray($personal->personal_array);?>
+                <?php //$personal->showPersonalArray($personal->personal_array);?>
+                <p>Side panel</p>
                 </div>
            </div>
             <p>Achievements</p>
