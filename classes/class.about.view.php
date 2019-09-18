@@ -56,6 +56,13 @@ class about
             print('<p>'.$goals['p'][$i].'</p>');
         }
     }
+    function achievments(){
+        $goals = $this->goals;
+        $size = sizeof($goals['p']);
+        for ($i=0;$i<$size;$i++) {
+            print('<p>'.$goals['p'][$i].'</p>');
+        }
+    }
 }
 
 ?> 

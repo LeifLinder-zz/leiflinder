@@ -5,13 +5,11 @@
             <myname>Leif Linder</myname>
             <sted>
                 <mycountry>NORWAY</mycountry>
-                <myaddress>Olav Aukrust Vei 4C</myaddress>
                 <mycity>Oslo</mycity>
                 <mymobilephone>+47 46 901 863</mymobilephone>
             </sted>
             <sted>
                 <mycountry>USA</mycountry>
-                <myaddress> 3716 NE 57th</myaddress>
                 <mycity> Seattle</mycity>
                 <mymobilephone>206 330 4784</mymobilephone>
             </sted>
@@ -79,6 +77,36 @@
             </jobdescription>
         </job>
     </jobs>
+    <skills>
+        <skill>
+            Build websites.
+        </skill>
+        <skill>
+            Design website mockups.
+        </skill>
+        <skill>
+           Create databases.
+        </skill>
+    </skills>
+    <goals>
+        <goal>
+        I want to design applications that connect people by psychology
+        </goal>
+        <goal>
+        I want to provide modern services like Uber or Foodora or other apps using location
+        </goal>
+    </goals>
+    <achievments>
+      <achievment>
+      Marathon Entertainment App
+      </achievment>
+    <achievment>
+      Race Information App
+      </achievment>
+    <achievment>
+      Tomato220 time management
+      </achievment>
+    </achievments>
 </resume>
 
 

@@ -356,3 +356,7 @@ body{
   margin-bottom:0px;
   background:transparent;
 }
+
+#leifpic {
+  border:solid 8px #F0F0F0;
+}

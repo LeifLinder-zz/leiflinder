@@ -1,61 +1,88 @@
-<?php include('../classes/class.codeskills.view.php');?>
-<?php// $personal = new codeskills;?>
+<?php include( '../classes/class.resume.view.php');?>
+<?php $resume = new resume;?>
+
 <link rel="stylesheet" href="./css/resume.css">
 
 <div class="container">
-    <ul class="nav nav-tabs" id="myTab" role="tablist">
-        <li class="nav-item">
-            <a class="nav-link active" id="resume-tab" data-toggle="tab" href="#resume" role="tab" aria-controls="resume" aria-selected="true">Resume</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" id="skills-tab" data-toggle="tab" href="#skills" role="tab" aria-controls="skills" aria-selected="false">Skills</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" id="achievements-tab" data-toggle="tab" href="#achievements" role="tab" aria-controls="achievements" aria-selected="false">Achievments</a>
-        </li>
-    </ul>
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="active nav-item"><a data-toggle="tab" class="nav-link active" href="#resume">Resume</a></li>
+  <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#skills">Skills</a></li>
+  <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#goals">Goals</a></li>
+  <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#achievments">Completed Projects</a></li>
+</ul>
+
+<div class="tab-content">
+ <div id="resume" class="tab-pane fade show active">
+  <div class="wrapper">
+      <div class="sidebar-wrapper">
+			<div class="profile-container">
+                <a href="#">
+            <img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" id="leifpic" src="./assets/leif-1012.png" alt="">
+          </a>
+                 <?php $resume->showPersonalArray();?>
+			</div>
+        </div>
+    <div class="main-wrapper">              
+    <h3>Resume</h3>
+    <p>Some content.</p>
+    <?php $resume->jobs();?>
+    </div>
+  </div>
 </div>
 
-<div class="tab-content" id="resumeTab">
 
-    <div class="tab-pane fade show active" id="resume" role="tabpanel" aria-labelledby="resume-tab">
-        <div class="wrapper">
-        <div class="sidebar-wrapper">
-        <div class="profile-container">
-        <?php //$personal->showPersonalArray($personal->personal_array);?>
-        <p>Side panel</p>
-        </div>
-        </div>
-            <h3>Resume</h3>
-            <?php // $personal->showIntroText(); ?>
-        </div>
-    </div>
-
-    
-    <div class="tab-pane fade show active" id="skills" role="tabpanel" aria-labelledby="resume-tab">
-        <div class="wrapper">
-        <div class="sidebar-wrapper">
-        <div class="profile-container">
-        <?php //$personal->showPersonalArray($personal->personal_array);?>
-        <p>Side panel</p>
-        </div>
-        </div>
-            <h3>Skills</h3>
-            <?php // $personal->showIntroText(); ?>
-        </div>
-    </div>
-
-
-    <div class="tab-pane fade" id="achievements" role="tabpanel" aria-labelledby="achievements-tab">
-        <div class="wrapper">
-            <div class="sidebar-wrapper">
-                <div class="profile-container">
-                <?php //$personal->showPersonalArray($personal->personal_array);?>
-                <p>Side panel</p>
+  <div id="skills" class="tab-pane fade">
+  <div class="wrapper">
+  <div class="sidebar-wrapper">
+					<div class="profile-container">
+                    <a href="#">
+            <img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" id="leifpic" src="./assets/leif-1012.png" alt="">
+          </a>
+                        <?php $resume->showPersonalArray();?>
+					</div>
                 </div>
-           </div>
-            <p>Achievements</p>
-        </div>
-    </div>
+    <div class="main-wrapper"> 
+    <h3>Skills</h3>
+    <?php $resume->skills();?>
+</div>
+  </div>
+</div>
 
+
+<div id="goals" class="tab-pane fade">
+  <div class="wrapper">
+  <div class="sidebar-wrapper">
+					<div class="profile-container">
+                    <a href="#">
+            <img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" id="leifpic" src="./assets/leif-1012.png" alt="">
+          </a>
+                        <?php $resume->showPersonalArray();?>
+					</div>
+                </div>
+    <div class="main-wrapper"> 
+    <h3>Goals</h3>
+    <?php $resume->goals();?>
+</div>
+  </div>
+</div>
+
+
+  <div id="achievments" class="tab-pane fade">
+  <div class="wrapper">
+				<div class="sidebar-wrapper">
+					<div class="profile-container">
+                    <a href="#">
+            <img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" id="leifpic" src="./assets/leif-1012.png" alt="">
+          </a>
+                        <?php $resume->showPersonalArray();?>
+					</div>
+                </div>
+    <div class="main-wrapper"> 
+    <h3>Goals</h3>
+    <?php $resume->goals();?>
+</div>
+  </div>
+</div>
+
+</div>
 </div>

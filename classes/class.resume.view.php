@@ -1,10 +1,12 @@
 <?php
-class about
+class resume
 {
     
-    var $resume_array = Array();
+    var $jobs = Array();
     var $personal_array = Array();
     var $resume_texts = Array();
+    var $skills = Array();
+    var $goals = Array();
    
     function __construct()
     {
@@ -19,29 +21,23 @@ class about
         // $this->xml_array_thing = $xml_array;
         // extract array and assign to its own array
         // save as class property
-        $this->resume_array = $xml_array['jobs'];
+        $this->jobs = $xml_array['jobs'];
         $this->personal_array = $xml_array['personalinfo'];       
         $this->resume_texts = $xml_array['resumetexts'];
+        $this->skills = $xml_array['skills'];
+        $this->goals = $xml_array['goals'];
     }
     
 
     
-    function showJobsArray($jobsdone)
+    function jobs()
     {
-        // print(gettype($imageArray));
-        $size = sizeOf($jobsdone['job']);
-        /*
-        print('<pre>');
-        print_r($jobsdone);
-        print('</pre>');
-        */
-        
+        $jobs = $this->jobs;
+        $size = sizeOf($jobs['job']);      
         for ($i = 0; $i < $size; $i++) {
-            $jobid       = $jobsdone['job'][$i]['jobid'];
-            $jobtitle    = $jobsdone['job'][$i]['jobtitle'];
-            $joblocation = $jobsdone['job'][$i]['joblocation'];
-            
-            
+            $jobid       = $jobs['job'][$i]['jobid'];
+            $jobtitle    = $jobs['job'][$i]['jobtitle'];
+            $joblocation = $jobs['job'][$i]['joblocation'];    
             print('<div class="spec"><div class="card linder-card">
       <div class="card-body">
         <h4 class="card-title">' . $jobid . '</h4>
@@ -49,87 +45,44 @@ class about
         <p><a href="#">' . $joblocation . ' GitHub</a></p>
     </div>
 </div></div>');
-        }     
-       // print('<p>'.$size.'</p>');  
+        }      
     }
 
-    function showPersonalArray($personalArray)
+    function showPersonalArray()
     {
-        /*
-        print('<pre>');
-        print_r($this->personal_array);
-        print('</pre>');
-        */
+        $personalArray = $this->personal_array;
         foreach($this->personal_array AS $key => $value){
-           // print('<p>'.is_array($value).'</p>');
-           // print('<p>'.is_string($value).'</p>');
             if(is_string($value)==1){
                 print('<p>'.$value.'</p>');
             }elseif(is_array($value)==1){
-               // print('<p>'.sizeof($value).'</p>');
                 for($i=0;$i<sizeof($value);$i++){
                     foreach ($value[$i] as $index => $content){
                         print('<p>'.$content.'</p>');
                     }
-                  //  print('<pre>');
-                  //  print_r($value[$i]);
-                  //  print('</pre>');
                 }
             }else{
                 print('<p>I have no idea what this is</p>');
             }
-            /*
-            if(is_array($value)==TRUE){
-                for($i=0;$i<sizeof($value);$i++){
-                    print($value[$i]);
-                }
-            }
-            else{
-                print('<p>'.$key.' '.$value.'</p>');
-            }
-            */
         }
-       // $size = sizeOf($personalArray['personalinfo']);
-        /*
-        for ($i = 0; $i < $size; $i++) {
-            $myname       = $personalArray['personalinfo'][$i]['myname'];
-            $myemail    = $personalArray['personalinfo'][$i]['myemail'];
-            $mylinkin = $personalArray['personalinfo'][$i]['mylinkin'];
+    }
 
-            print('<div class="spec"><div class="card linder-card">
-      <div class="card-body">
-        <h4 class="card-title">' . $myname . '</h4>
-        <p class="card-text">' . $myemail . '</p>
-        <p><a href="#">' . $mylinkin . ' GitHub</a></p>
-    </div>
-</div></div>');
-        }
-        */
-    }
-    /*
-    function showCodeSkillsOnCondition($codeskills, $GET_id){
-    // print(gettype($imageArray));
-    $size = sizeOf($codeskills);
-    for ($i = 0;$i < $size;$i++)
+    function skills()
     {
-    $codetitle = $codeskills[$i]['codetitle'];
-    $codeid = $codeskills[$i]['codeid'];
-    $description = $codeskills[$i]['description'];
-    $github = $codeskills[$i]['github'];
-    
-    if($codeskills[$i]['codeid']==$GET_id) {
-    print('<div class="spec"><div class="card linder-card">
-    <div class="card-body">
-    <h4 class="card-title">'.$codetitle.'</h4>
-    <p class="card-text">'.$description.'</p>
-    <p><a href="#">'.$codetitle.' GitHub</a></p>
-    </div>
-    </div></div>');
-    }else{
-    // do nothing
+        $skills = $this->skills;
+        $size = sizeOf($skills['skill']);      
+        for ($i = 0; $i < $size; $i++) {
+            $skill = $skills['skill'][$i];   
+            print('<p>'.$skill.'</p>');
+        }      
     }
+    function goals()
+    {
+        $goals = $this->goals;
+        $size = sizeOf($goals['goal']);      
+        for ($i = 0; $i < $size; $i++) {
+            $goal = $goals['goal'][$i];   
+            print('<p>'.$goal.'</p>');
+        }      
     }
-    }
-    */
 }
 ?>

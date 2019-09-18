@@ -22,7 +22,9 @@
 			<div class="wrapper">
 				<div class="sidebar-wrapper">
 					<div class="profile-container">
-						<p>Side panel</p>
+					<a href="#">
+            <img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" id="leifpic" src="./assets/leif-1012.png" alt="">
+          </a>
 					</div>
 				</div>
 				<div class="main-wrapper">
@@ -39,8 +41,9 @@
 			<div class="wrapper">
 				<div class="sidebar-wrapper">
 					<div class="profile-container">
-						<?php // $personal->showPersonalArray($personal->personal_array);?>
-						<p>Side panel</p>
+					<a href="#">
+            <img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" id="leifpic" src="./assets/leif-1012.png" alt="">
+          </a>
 					</div>
 				</div>
 				<div class="main-wrapper">
@@ -55,8 +58,9 @@
 			<div class="wrapper">
 				<div class="sidebar-wrapper">
 					<div class="profile-container">
-						<?php //$personal->showPersonalArray($personal->personal_array);?>
-						<h3>Side panel</h3>
+					<a href="#">
+            <img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" id="leifpic" src="./assets/leif-1012.png" alt="">
+          </a>
 					</div>
 				</div>
 				<div class="main-wrapper">
