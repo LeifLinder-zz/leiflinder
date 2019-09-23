@@ -1,10 +1,7 @@
 <?php
-// include('./includes/header.php');
+ include('./includes/header.php');
 ?>
-<?php // header("Location: http://www.redirect.to.url.com/"); ?>
-<?php // header("Location: indexredirect.php"); ?>
-<?php header("Location: page.php"); ?>
-<!--
+
     <div id="content" class="index_page_content">
     <p><br/></p>
       <div class="row skillsrow">
@@ -139,7 +136,6 @@
         </div>
       </div>
     </div>
-    -->
-    <?php
-// include('./includes/footer.php');
-?>
+  <?php
+  include('./includes/footer.php');
+  ?>

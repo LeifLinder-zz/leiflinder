@@ -7,8 +7,8 @@
 <ul class="nav nav-tabs" id="myTab" role="tablist">
   <li class="active nav-item"><a data-toggle="tab" class="nav-link active" href="#resume">Resume</a></li>
   <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#skills">Skills</a></li>
-  <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#goals">Goals</a></li>
   <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#achievments">Completed Projects</a></li>
+  <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#eductiona">Training / Education</a></li>
 </ul>
 
 <div class="tab-content">
@@ -49,9 +49,9 @@
 </div>
 
 
-<div id="goals" class="tab-pane fade">
+  <div id="achievments" class="tab-pane fade">
   <div class="wrapper">
-  <div class="sidebar-wrapper">
+				<div class="sidebar-wrapper">
 					<div class="profile-container">
                     <a href="#">
             <img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" id="leifpic" src="./assets/leif-1012.png" alt="">
@@ -67,7 +67,7 @@
 </div>
 
 
-  <div id="achievments" class="tab-pane fade">
+<div id="education" class="tab-pane fade">
   <div class="wrapper">
 				<div class="sidebar-wrapper">
 					<div class="profile-container">

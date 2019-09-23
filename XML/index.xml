@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+    <modules>
+
+        <module>
+            <image>leiflinder08</image>
+            <column1title>About Me</column1title>
+            <colum1>My name is Leif Linder and this is my personal website. I am an American living in Oslo Norway. Find here examples of my work as a web developer and image maker. My code projects are available for review on GitHub.</colum1>
+            <column2title>Competency</column2title>
+            <colum2>I have many years as a professional PHP developer. I am a designer as well. In addition now I am competent with AngularJS and ReactJS and NodeJS. I am fully fluent in front end technologies, HTML CSS Bootstrap, etc...</colum2>
+            <githubtext>GitHub</githubtext>
+            <githuhref>link</githuhref>
+        </module>
+
+
+        <module>
+            <image>frontend</image>
+            <column1title>Front End</column1title>
+            <colum1>
+                <list>
+                    <listitem>HTML / CSS</listitem>
+                    <listitem>Bootstrap</listitem>
+                    <listitem>SASS / LESS</listitem>
+                    <listitem>Javascript / Typescript</listitem>
+                    <listitem>Angular 2 / ReactJS</listitem>
+                </list>
+            </colum1>
+            <column2title>Fullstack Development</column2title>
+            <colum2>Find here code samples and projects I have created using fullstack technologies. Single code base displays brilliantly among variety of devices and screen sizes.</colum2>
+            <githubtext>GitHub</githubtext>
+            <githuhref>leifliner/link/link</githuhref>
+        </module>
+
+        <module>
+            <image>backend</image>
+            <column1title>Back End</column1title>
+            <colum1>
+                <list>
+                    <listitem>Apache</listitem>
+                    <listitem>SQL</listitem>
+                    <listitem>MongoDB</listitem>
+                    <listitem>LINUX</listitem>
+                    <listitem>PHP</listitem>
+                </list>
+            </colum1>
+            <column2title>Server Side</column2title>
+            <colum2>Find here code samples and projects I have created using fullstack technologies. Single code base displays brilliantly among variety of devices and screen sizes.</colum2>
+            <githubtext>GitHub</githubtext>
+            <githuhref>leifliner/link/link</githuhref>
+        </module>
+
+   
+
+
+        <module>
+            <image>linderdesign</image>
+            <column1title>Design</column1title>
+            <colum1>
+                <list>
+                    <listitem>Illustrator</listitem>
+                    <listitem>Photoshop</listitem>
+                    <listitem>Indesign</listitem>
+                    <listitem>Drawings</listitem>
+                </list>
+            </colum1>
+            <column2title>Creative</column2title>
+            <colum2>I enjoy creating website ideas, logos and entire company branding profiles. My moto "start with art", denotes my creative process of first sorting imagery and mode of the new project.</colum2>
+            <githubtext>GitHub</githubtext>
+            <githuhref>leifliner/link/link</githuhref>
+        </module>
+
+
+        
+        <module>
+            <image>linderpictures</image>
+            <column1title>Photography</column1title>
+            <colum1>
+                <list>
+                    <listitem>Stock Photography</listitem>
+                    <listitem>Photo Journalism</listitem>
+                    <listitem>Fine Art</listitem>
+                    <listitem>Street Photography</listitem>
+                </list>
+            </colum1>
+            <column2title>Creative</column2title>
+            <colum2>I worked as professional photographer and image researcher and assistent photo editor over the course of 7 years in the stock photography busines. My images are currently represented by Getti Images.</colum2>
+            <githubtext>GitHub</githubtext>
+            <githuhref>leifliner/link/link</githuhref>
+        </module>
+
+
+    </modules>
+</index>

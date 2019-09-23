@@ -109,7 +109,7 @@ body {
   margin:0px auto;
 }
 .friendlyspace{
-  height:2.5em;
+  height:4em;
 }
 #spak ul {
   list-style:none;
@@ -359,4 +359,12 @@ body{
 
 #leifpic {
   border:solid 8px #F0F0F0;
+}
+.index_page_content{
+  max-width:1000px;
+  border:solid red 1px;
+  margin:0px auto;
+}
+.indexrow {
+  padding-bottom:0px;
 }

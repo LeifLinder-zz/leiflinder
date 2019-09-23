@@ -1,71 +1,61 @@
-<?php include('../classes/class.codeskills.view.php');?>
-<?php include('../classes/class.about.view.php');?>
+<?php include( '../classes/class.about.view.php');?>
 <?php $resumetexts = new about;?>
-
-	<link rel="stylesheet" href="./css/resume.css">
-
-	<div class="container">
-		<ul class="nav nav-tabs" id="myTab" role="tablist">
-			<li class="nav-item"> <a class="nav-link active" id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="resume" aria-selected="true">About</a>
-			</li>
-			<li class="nav-item"> <a class="nav-link" id="freetime-tab" data-toggle="tab" href="#freetime" role="tab" aria-controls="freetime" aria-selected="false">Freetime</a>
-			</li>
-			<li class="nav-item"> <a class="nav-link" id="goals-tab" data-toggle="tab" href="#goals" role="tab" aria-controls="goals" aria-selected="false">Goals</a>
-			</li>
-		</ul>
-	</div>
-
-
-	<div class="tab-content" id="tabcontent">
-
-		<div class="tab-pane fade show active" id="about" role="tabpanel" aria-labelledby="resume-tab">
-			<div class="wrapper">
-				<div class="sidebar-wrapper">
-					<div class="profile-container">
-					<a href="#">
-            <img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" id="leifpic" src="./assets/leif-1012.png" alt="">
-          </a>
-					</div>
-				</div>
-				<div class="main-wrapper">
-					<h4>About Me</h4>
-					<?php // $resumetexts->aboutme();?>
-					<?php // $resumetexts->personality();?>
-				</div>
-			</div>
-		</div>
-	
-
-
-		<div class="tab-pane fade show active" id="freetime" role="tabpanel" aria-labelledby="resume-tab">
-			<div class="wrapper">
-				<div class="sidebar-wrapper">
-					<div class="profile-container">
-					<a href="#">
-            <img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" id="leifpic" src="./assets/leif-1012.png" alt="">
-          </a>
-					</div>
-				</div>
-				<div class="main-wrapper">
-					<h3>Freetime</h3>
-					<?php //$resumetexts->freetime();?>
-				</div>
-			</div>
-		</div>
-
-		
-		<div class="tab-pane fade" id="goals" role="tabpanel" aria-labelledby="goals-tab">
-			<div class="wrapper">
-				<div class="sidebar-wrapper">
-					<div class="profile-container">
-					<a href="#">
-            <img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" id="leifpic" src="./assets/leif-1012.png" alt="">
-          </a>
-					</div>
-				</div>
-				<div class="main-wrapper">
-					<p>Goals</p>
-				</div>
-			</div>
-		</div>
-	</div>
+<link rel="stylesheet" href="./css/resume.css">
+<div class="container">
+   <ul class="nav nav-tabs" id="myTab" role="tablist">
+      <li class="active nav-item"><a data-toggle="tab" class="nav-link active" href="#about">About</a></li>
+      <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#freetime">Freetime</a></li>
+      <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#goals">Goals</a></li>
+   </ul>
+   <div class="tab-content">
+      <div id="about" class="tab-pane fade show active">
+         <div class="wrapper">
+            <div class="sidebar-wrapper">
+               <div class="profile-container">
+                  <a href="#">
+                  <img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" id="leifpic" src="./assets/leif-1012.png" alt="">
+                  </a>
+                  <?php $resumetexts->personalinfo();?>
+               </div>
+            </div>
+            <div class="main-wrapper">
+               <h3>HOME</h3>
+               <p>Some content.</p>
+               <?php $resumetexts->aboutme();?>
+            </div>
+         </div>
+      </div>
+      <div id="freetime" class="tab-pane fade">
+         <div class="wrapper">
+            <div class="sidebar-wrapper">
+               <div class="profile-container">
+                  <a href="#">
+                  <img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" id="leifpic" src="./assets/leif-1012.png" alt="">
+                  </a>
+                  <?php $resumetexts->personalinfo();?>
+               </div>
+            </div>
+            <div class="main-wrapper">
+               <h3>Freetime</h3>
+               <?php $resumetexts->freetime();?>
+            </div>
+         </div>
+      </div>
+      <div id="goals" class="tab-pane fade">
+         <div class="wrapper">
+            <div class="sidebar-wrapper">
+               <div class="profile-container">
+                  <a href="#">
+                  <img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" id="leifpic" src="./assets/leif-1012.png" alt="">
+                  </a>
+                  <?php $resumetexts->personalinfo();?>
+               </div>
+            </div>
+            <div class="main-wrapper">
+               <h3>Goals</h3>
+               <?php $resumetexts->goals();?>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>

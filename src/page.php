@@ -9,6 +9,9 @@ include('./includes/header.php');
      //portfolio
      //resume
      switch ($_GET['page']) {
+        case "index":
+            include('includes/index.php');
+            break;
         case "about":
             include('includes/about.php');
             break;
@@ -30,35 +33,13 @@ include('./includes/header.php');
         case "resume":
             include('includes/resume.php');
             break;
-        case "skills":
-            include('includes/skills.php');
-            break;
-        case "skill_php":
-            include('includes/skill_php.php');
-            break;
-        case "skill_javascript":
-            include('includes/skill_javascript.php');
-            break;
-        case "skill_backend":
-            include('includes/skill_backend.php');
-            break;
-        case "skill_frontend":
-            include('includes/skill_frontend.php');
-            break;
-        case "cmswork":
-            include('includes/cmswork.php');
-            break;
-        case "projects_php":
-            include('includes/skill_php.php');
-            break;
         default:
-            echo "<p>Undefined</p>";
-            include('includes/index.php');
+        include('includes/index.php');
+       // print('<h3>Index Include</h3>');
     }
  }else{
-  echo "<p>Undefined</p>";
-  include('includes/index.php');
- // header('Location: ./index.php');
+     include('includes/index.php');
+   // print('<h3>Index Include</h3>');
  }
 ?>
 
