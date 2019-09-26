@@ -21,7 +21,7 @@ and a good sense of design, user experience and content flow.
             <section class="section experiences-section">
                 <h2 class="section-title">Work History</h2>
                 
-                <div class="item">
+                <div class="item">      
                     <div class="meta">
                         <div class="upper-row">
                             <h3 class="job-title">Owner and Lead Developer</h3>
@@ -30,7 +30,6 @@ and a good sense of design, user experience and content flow.
                         <div class="company">
 						Linder Creative, Oslo Norway
 						</div>
-						
                     </div><!--//meta-->
                     <div class="details">
                         <p>

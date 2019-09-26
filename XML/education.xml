@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<education>
+    <module>
+        <school>Coursera</school>
+        <year>2018</year>
+        <title>Front-End JavaScript Frameworks: Angular</title>
+        <achievment>Certificate of Completion</achievment>
+        <location>Online</location>
+        <certlink>https://www.coursera.org/account/accomplishments/records/7PGBF4SLKPFJ</certlink>
+        <type>Professional</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>Coursera</school>
+        <year>2017</year>
+        <title>Front-End JavaScript Frameworks: AngularJS</title>
+        <achievment>Certificate of Completion</achievment>
+        <location>Online</location>
+        <certlink>https://www.coursera.org/account/accomplishments/certificate/Y3XWF4LS53BA</certlink>
+        <type>Professional</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>Coursera</school>
+        <year>2017</year>
+        <title>Front-End JavaScript Frameworks: AngularJS</title>
+        <achievment>Certificate of Completion</achievment>
+        <location>Online</location>
+        <certlink>https://www.coursera.org/account/accomplishments/records/7PGBF4SLKPFJ</certlink>
+        <type>Professional</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>Coursera</school>
+        <year>2017</year>
+        <title>Front-End Web UI Frameworks and Tools: Bootstrap 4</title>
+        <achievment>Certificate of Completion</achievment>
+        <location>Online</location>
+        <certlink>https://www.coursera.org/account/accomplishments/records/7NQVDRAA24U2</certlink>
+        <type>Professional</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>Coursera</school>
+        <year>2017</year>
+        <title>Front-End Web UI Frameworks and Tools</title>
+        <achievment>Certificate of Completion</achievment>
+        <location>Online</location>
+        <certlink>https://www.coursera.org/account/accomplishments/records/6P9LHMVWFGQT</certlink>
+        <type>Professional</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>Coursera</school>
+        <year>2016</year>
+        <title>Java Programming: Arrays, Lists, and Structured Data</title>
+        <achievment>Certificate of Completion</achievment>
+        <location>Online</location>
+        <certlink>https://www.coursera.org/account/accomplishments/records/WUXFTEZCC4GZ</certlink>
+        <type>Professional</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>Coursera</school>
+        <year>2016</year>
+        <title>HTML, CSS and JavaScript</title>
+        <achievment>Certificate of Completion</achievment>
+        <location>Online</location>
+        <certlink>https://www.coursera.org/account/accomplishments/records/FSKL5K2WE8VN</certlink>
+        <type>Professional</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>Coursera</school>
+        <year>2015</year>
+        <title>Greening the Economy: Lessons from Scandinavia</title>
+        <achievment>Certificate of Completion</achievment>
+        <location>Online</location>
+        <certlink>https://www.coursera.org/account/accomplishments/records/ZMU5KVA2RRD4</certlink>
+        <type>Professional</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>Coursera</school>
+        <year>2015</year>
+        <title>Learning How to Learn</title>
+        <achievment>Certificate of Completion</achievment>
+        <location>Online</location>
+        <certlink>https://www.coursera.org/learn/learning-how-to-learn</certlink>
+        <type>Professional</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>New York University Professional Studies</school>
+        <year>2015</year>
+        <title>ASP.Net / C#</title>
+        <achievment>Professional Certificate</achievment>
+        <location>New York City</location>
+        <certlink>#</certlink>
+        <type>Professional</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>Hunter College CUNY New York</school>
+        <year>2005</year>
+        <title>Media Studies Political Science</title>
+        <achievment>Bachelors Degree</achievment>
+        <location>New York City</location>
+        <certlink>#</certlink>
+        <type>Academic</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>New York University Professional Studies</school>
+        <year>2014</year>
+        <title>ASP.Net / C#</title>
+        <achievment>Professional Certificate</achievment>
+        <location>New York City</location>
+        <certlink>#</certlink>
+        <type>Professional</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>Aquia Drupal</school>
+        <year>2014</year>
+        <title>Drupal 7 Theming</title>
+        <achievment>Completion</achievment>
+        <location>Online</location>
+        <certlink>#</certlink>
+        <type>Professional</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>Aquia Drupal</school>
+        <year>2014</year>
+        <title>Drupal 7 Development</title>
+        <achievment>Completion</achievment>
+        <location>Online</location>
+        <certlink>#</certlink>
+        <type>Professional</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>Aquia Drupal</school>
+        <year>2014</year>
+        <title>Drupal 7 Modules</title>
+        <achievment>Completion</achievment>
+        <location>Online</location>
+        <certlink>#</certlink>
+        <type>Professional</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+    <module>
+        <school>Seattle Central College</school>
+        <year>1995</year>
+        <title>Associative Arts Degree</title>
+        <achievment>Graduation</achievment>
+        <location>Seattle</location>
+        <certlink>#</certlink>
+        <type>Academic</type>
+        <notes>asdfas asdf asdf dsadsfa  dsafasd</notes>
+    </module>
+</education>

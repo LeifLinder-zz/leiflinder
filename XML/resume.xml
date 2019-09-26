@@ -38,10 +38,12 @@
             <jobtitle>Industrial Athlete</jobtitle>
             <joblocation>Oslo, Norway</joblocation>
             <jobstart>November 2016</jobstart>
+            <jobstartyear>2016</jobstartyear>
             <jobfinish>September 2019</jobfinish>
+            <jobfinishyear>2019</jobfinishyear>
             <companyname>Foodora AS</companyname>
             <companyaddress>Olso Norway</companyaddress>
-            <jobdescription><p>Martian Rocket</p></jobdescription>
+            <jobdescription>Martian Rocket</jobdescription>
         </job>
         <job>
             <jobid>1002</jobid>
@@ -49,9 +51,11 @@
             <companyname>New York Road Runners</companyname>
             <joblocation>New York, New York</joblocation>
             <jobstart>October 2012</jobstart>
+            <jobstartyear>2012</jobstartyear>
             <jobfinish>September 2015</jobfinish>
+            <jobfinishyear>2015</jobfinishyear>
             <jobdescription>
-            <p>As Web Manager and PHP developer I maintained and extended two large drupal websites, compiled user analytics and improved SEO. I coded dozens of single page websites, kiosk portals and full custom PHP CMS systems and while communicating regularly with project managers and developers overseas.</p>
+            As Web Manager and PHP developer I maintained and extended two large drupal websites, compiled user analytics and improved SEO. I coded dozens of single page websites, kiosk portals and full custom PHP CMS systems and while communicating regularly with project managers and developers overseas.
             </jobdescription>
         </job>
         <job>
@@ -60,9 +64,11 @@
             <companyname>StarPoint Solutions</companyname>
             <joblocation>New York, New York</joblocation>
             <jobstart>2011</jobstart>
+            <jobstartyear>2011</jobstartyear>
             <jobfinish>2012</jobfinish>
+            <jobfinishyear>2012</jobfinishyear>
             <jobdescription>
-            <p>Built HTML pages for New York Road Runners, New York City Marathon. Built PHP Sweepstakes web applications for runners to win entry. </p>
+            Built HTML pages for New York Road Runners, New York City Marathon. Built PHP Sweepstakes web applications for runners to win entry.
             </jobdescription>
         </job>
         <job>
@@ -71,21 +77,69 @@
             <companyname>McFadden Media Inc</companyname>
             <joblocation>New York, New York</joblocation>
             <jobstart>2009</jobstart>
+            <jobstartyear>2009</jobstartyear>
             <jobfinish>2010</jobfinish>
+            <jobfinishyear>2010</jobfinishyear>
             <jobdescription>
-            <p>I built three drupal websites for McFadden Media. Point Magazine, Dance Teacher News and Dance Retailer News. In addition I created an internal website for employees use.</p>
+            I built three drupal websites for McFadden Media. Point Magazine, Dance Teacher News and Dance Retailer News. In addition I created an internal website for employees use.
             </jobdescription>
         </job>
     </jobs>
     <skills>
         <skill>
-            Build websites.
+            <skilltitle>
+            PHP
+            </skilltitle>
+            <skilldescription>
+            I have a good command of the PHP components including variables, arrays, loops, and datatypes. I use object-oriented design principles on my projects. I have built many small scale web applications, (See Examples) and Drupal webites. 
+            </skilldescription>
+            <skillexamples>
+            PHP examples here
+            </skillexamples>
         </skill>
         <skill>
-            Design website mockups.
+            <skilltitle>
+            MySQL
+            </skilltitle>
+            <skilldescription>
+          As a utility towards for accessing and creating data I can easily write complex queries with joins on tables (examples). I am not however, a database professional and have little experience optimizing for speed or other more complex actions.
+            </skilldescription>
+            <skillexamples>
+            mysql examples link
+            </skillexamples>
         </skill>
         <skill>
-           Create databases.
+            <skilltitle>
+            CSS
+            </skilltitle>
+            <skilldescription>
+            My old friend CSS has been a buggy bedfellow but a friend too and I have much hard-earned experience solving difficult style solutions. I have a firm understand of CSS selectivity rules and can create simple but elegant stylesheets. I do use SASS variables but rarely create anything complex enough to take full advantage of preprocessors. 
+            </skilldescription>
+            <skillexamples>
+            Examples of CSS and SASS
+            </skillexamples>
+        </skill>
+        <skill>
+            <skilltitle>
+            Bootstrap
+            </skilltitle>
+            <skilldescription>
+            Currently I use Bootstrap for my web projects and enjoy collecting templates. I have several costum designs that I can offer for Bootstrap image gallery or blog style or for creating forms that are simple and easy to understand. I enjoy studying the Bootsrap website for depicting lists and cards that adjst elegantly to the viewing device.
+            </skilldescription>
+            <skillexamples>
+            Examples of CSS and SASS
+            </skillexamples>
+        </skill>
+        <skill>
+            <skilltitle>
+            MISC
+            </skilltitle>
+            <skilldescription>
+            Here are skills I have experience with or are learning now. 
+            </skilldescription>
+            <skillexamples>
+            Examples of CSS and SASS
+            </skillexamples>
         </skill>
     </skills>
     <goals>

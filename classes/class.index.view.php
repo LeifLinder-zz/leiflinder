@@ -24,7 +24,7 @@ class index
 
     function print_list_items($array){
         $count = count($array);
-        print('<ul>');
+        print('<ul class="linderlist">');
             for($i=0;$i<$count;$i++){
                 print('<li>'.$array[$i].'</p>');
             }
@@ -39,6 +39,7 @@ class index
             $image = $modules['module'][$i]['image'];
             $column1title = $modules['module'][$i]['column1title'];
             $image = $modules['module'][$i]['image'];
+            $imagelink = $modules['module'][$i]['imagelink'];
             $column1title = $modules['module'][$i]['column1title'];
             $colum1 = $modules['module'][$i]['colum1'];
             $column2title = $modules['module'][$i]['column2title'];
@@ -47,28 +48,11 @@ class index
             $githuhref = $modules['module'][$i]['githuhref'];
 
             print('<div class="row skillsrow">');
-            print('<div class="col-md-4">');
-            print('<a href="#">');
-            print('<img class="img-fluid rounded-circle mb-3 mb-md-0 center border1" src="./assets/'.$image.'.png" alt=""></a></div>');
+            print('<div class="col-md-4 image-column">');
+            print('<a href="http://localhost/leiflinder05/src/page.php?page='.$imagelink.'">');
+            print('<img class="img-fluid rounded-circle mb-3 mb-md-0 center" src="./assets/'.$image.'.png" alt=""></a></div>');
             print('<div class="col-md-4">');
             print('<h3>'.$column1title.'</h3>');
-            // if column one contains list items
-            // then loop through otherwise print as is
-            /*
-            if(sizeof($colum1['list'])>0){
-                print('<ul>');
-                for($i=0;$i<sizeof($colum1['list']);$i++){
-                    print('<li>'.$colum1['list']['listitem'][$i].'<li>');
-                }
-                print('</ul>');
-            }else{
-                print('<p>'.$colum1.'</p>');
-            }*/
-            /*
-            print('<pre>');
-            print_r($colum1);
-            print('</pre>');
-            */
             /*
             the XML file may or may not have list items instead of text
             in colum1. If it list items exist and if they are more than 1
@@ -88,7 +72,11 @@ class index
             print('</div>');
             print('<div class="col-md-4">');
             print('<h3>'.$column2title.'</h3>');
-            print('<p>'.$colum2.' <span><a href="'.$modules['module'][$i]['githuhref'].'">'.$modules['module'][$i]['githubtext'].'</a></span></p>');
+            print('<p>'.$colum2); 
+            /*
+            print('<span><a href="'.$modules['module'][$i]['githuhref'].'">'.$modules['module'][$i]['githubtext'].'</a></span>');
+            */
+            print('</p>');
             print('</div></div>');
         }
     }
