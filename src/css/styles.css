@@ -197,9 +197,8 @@ body {
   text-decoration: none;
 }
 .footergradient{
-  background-image: url('http://localhost/leiflinder05/src/assets/footer-gradient.png');
-  background-repeat: repeat-x;
   background-color: white;
+  font-size:80%;
 }
 .jumbotron{
   background-color: white;
@@ -441,4 +440,11 @@ body{
 
 .sidebar-wrapper .profile-container .whiteborder {
   border:solid white 1px;
+}
+
+.main-wrapper {
+  background:#fff;
+  padding: 60px;
+  padding-right: 60px;
+  padding-right: 300px;
 }

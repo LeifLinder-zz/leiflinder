@@ -3,16 +3,16 @@
     <personalinfo>
             <myname>Leif Linder</myname>
             <sted>
-                <mycountry>NORWAY</mycountry>
-                <myaddress>Olav Aukrust Vei 4C</myaddress>
-                <mycity>Oslo</mycity>
-                <mymobilephone>+47 46 901 863</mymobilephone>
-            </sted>
-            <sted>
                 <mycountry>USA</mycountry>
                 <myaddress> 3716 NE 57th</myaddress>
                 <mycity> Seattle</mycity>
                 <mymobilephone>206 330 4784</mymobilephone>
+            </sted>
+            <sted>
+                <mycountry>NORWAY</mycountry>
+                <myaddress>Olav Aukrust Vei 4C</myaddress>
+                <mycity>Oslo</mycity>
+                <mymobilephone>+47 46 901 863</mymobilephone>
             </sted>
             <myemail>leif@leiflinder.com</myemail>
             <mylinkin>leiflinkin</mylinkin>
@@ -20,14 +20,15 @@
     </personalinfo>
    <resumetexts>
         <intro>
-        <p>Hello, my name is Leif Linder. I am a web developer from Seattle Washington but have lived all over the world. I studied Web Developing in New York and worked as on primarily PHP based web applications for many years.</p>
+        <p>Hello, my name is Leif Linder. I am a web developer from Seattle Washington but have lived all over the world. I studied Web Developing in New York and worked as on PHP programmer for many years.</p>
         <p>Although coding is my current professional I have worked in the stock photography business as an image researcher and supplier of images.</p>
-        <p>My college education is in Media and writing for media and new writing. I am maninly professionally concerned with creating documents, whether that be as web code or images or news and journalism.</p>
+        <p>My college education is in Media and writing for news and taken as a whole, my entire life has been about creating documents. Images, writing, design and coding have all been my tools for creating content and expressing myself.
+        </p>
         </intro>
         <freetime>
-        <p>Hello, my name is Leif Linder. I am a web developer from Seattle Washington but have lived all over the world. I studied Web Developing in New York and worked as on primarily PHP based web applications for many years.</p>
-        <p>Although coding is my current professional I have worked in the stock photography business as an image researcher and supplier of images.</p>
-        <p>My college education is in Media and writing for media and new writing. I am maninly professionally concerned with creating documents, whether that be as web code or images or news and journalism.</p>
+        <p>"Move through time and space" is something I am saying a lot lately. I like to spend my free riding through the city or getting on a train and going someplace interesting. I like moving and being outside early. I like activities where I am going someplace and feeling the wind in my face.</p> 
+        <p>I also play guitar and run marathons.</p>
+
         </freetime>
         <personalitytype>
         INTP
@@ -38,8 +39,7 @@
         </personality>
     </resumetexts>
     <goals>
-        <p>sdfa sdfasdfasd fas fdasdfa sdfasdfas  asdf  sadf  s asd a</p>
-        <p>sdfa sdfasdfasd fas fdasdfa sdfasdfas  asdf  sadf  s asd a</p>
-        <p>sdfa sdfasdfasd fas fdasdfa sdfasdfas  asdf  sadf  s asd a</p>
+        <p>My current goal is to be working with a team of developers creating really interesting digital products.</p>
+        <p>I want to be part of something I find both artistically challenging and fullfiling. And I want to collaborate with people who recognise my odd genius and be kindred spirirts</p>
     </goals>
 </about>

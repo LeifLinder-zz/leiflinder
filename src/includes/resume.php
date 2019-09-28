@@ -25,6 +25,7 @@
                 <h3 class="tagline">Web Programmer</h3>
       </div><!--//profile-container-->
       <?PHP $resume->ContactInfo();?>
+</div>
     <div class="main-wrapper">   
       <!-- cool feature that shows raw XML in modal ---- 
     <div class="XMLDatasource"><span><a href="#" data-toggle="modal" data-target="#resumeXML">XML Datasource</a></span></div>-->
@@ -49,6 +50,7 @@
                 <h3 class="tagline">Web Programmer</h3>
       </div><!--//profile-container-->
           <?PHP $resume->ContactInfo();?>
+          </div>
     <div class="main-wrapper"> 
     <section class="section experiences-section">
     <h2 class="section-title">Coding Skills</h2>
@@ -71,6 +73,7 @@
                 <h3 class="tagline">Web Programmer</h3>
       </div><!--//profile-container-->
           <?PHP $resume->ContactInfo();?>
+          </div>
     <div class="main-wrapper"> 
     <?php $education->showEducation();?>
 </div>

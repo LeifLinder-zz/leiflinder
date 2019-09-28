@@ -75,7 +75,7 @@ class resume
     }
 
     function ContactInfo(){
-        print('<div class="contact-container container-block">
+        print('
         <ul class="list-unstyled contact-list">
             <li class="email"><i class="fa fa-envelope"></i><a href="mailto: leif@leiflinder.com">leif@leiflinder.com</a></li>
             <li class="phone"><i class="fa fa-phone"></i><a href="tel:+47 46 901 863">+47 46 901 863</a></li>
@@ -84,8 +84,7 @@ class resume
             <li class="github"><i class="fa fa-github"></i><a href="https://github.com/LeifLinder" target="_blank">github.com/LeifLinder</a></li>
             <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/leif_media?lang=en" target="_blank">@leif_media</a></li>
         </ul>
-    </div><!--//contact-container-->
-</div>');
+    ');
     }
 
     function showPersonalArray()
