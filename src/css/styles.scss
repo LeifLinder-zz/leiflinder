@@ -11,7 +11,6 @@ body {
     color: $linderdark;
 }
 
-// No media query necessary for xs breakpoint as it's effectively `@media (min-width: 0) { ... }`
 @include media-breakpoint-up(sm) { 
     .glib {
       border:red 1px solid;

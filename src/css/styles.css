@@ -9,7 +9,11 @@
 body {
     background:#EDEDED;
     background:white;
-  }
+      font-family: 'Roboto', sans-serif;
+      font-family: 'Muli', sans-serif;
+      font-family: 'Oswald', sans-serif;
+      font-family: 'Mandali', sans-serif;
+    }
 .nav-item {
     margin:0 .5em;
 }
@@ -442,9 +446,33 @@ body{
   border:solid white 1px;
 }
 
-.main-wrapper {
-  background:#fff;
-  padding: 60px;
-  padding-right: 60px;
-  padding-right: 300px;
+
+@media screen and (max-width: 500px) {
+  body {
+    border: red 3px solid;
+  }
+  #logo {
+    width:300px;
+  }
+  .skillsrow .hidefrommobile {
+    display:none;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  body {
+    border: grey 3px solid;
+  }
+  #logo {
+    width:210px;
+  }
+}
+
+@media screen and (max-width: 200px) {
+  body {
+    border: yellow 3px solid;
+  }
+  #logo {
+    width:200px;
+  }
 }

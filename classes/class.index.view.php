@@ -38,7 +38,6 @@ class index
         for ($i=0;$i<$size;$i++) {
             $image = $modules['module'][$i]['image'];
             $column1title = $modules['module'][$i]['column1title'];
-            $image = $modules['module'][$i]['image'];
             $imagelink = $modules['module'][$i]['imagelink'];
             $column1title = $modules['module'][$i]['column1title'];
             $colum1 = $modules['module'][$i]['colum1'];
@@ -51,7 +50,7 @@ class index
             print('<div class="col-md-4 image-column">');
             print('<a href="http://localhost/leiflinder05/src/page.php?page='.$imagelink.'">');
             print('<img class="img-fluid rounded-circle mb-3 mb-md-0 center" src="./assets/'.$image.'.png" alt=""></a></div>');
-            print('<div class="col-md-4">');
+            print('<div class="col-md-4 hidefrommobile">');
             print('<h3>'.$column1title.'</h3>');
             /*
             the XML file may or may not have list items instead of text
