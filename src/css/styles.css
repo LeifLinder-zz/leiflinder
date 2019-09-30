@@ -131,9 +131,7 @@ body {
   padding-bottom:1.2em;
   padding-top: 0.5em;
 }
-.clear_left {
-  clear:left;
-}
+
 .skillsrow{
   padding-bottom:4em;
 }
@@ -415,16 +413,18 @@ body{
   margin:0;
 }
 
-.clear_left{
+.clear_left {
   clear:left;
 }
 
 .clear_right{
   clear:right;
 }
+
 .clear_both{
   clear:both;
 }
+
 .left-column {
   width:14.5em;
   float:left;
