@@ -101,7 +101,7 @@ body {
   margin:0px auto;
 }
 #page {
-  min-height:850px;
+  min-height:700px;
 }
 
 #content {
@@ -363,7 +363,6 @@ body{
 }
 .index_page_content{
   max-width:1000px;
-  border:solid red 1px;
   margin:0px auto;
 }
 .indexrow {
@@ -396,13 +395,11 @@ body{
   width: 14em;
   float:left;
   margin: 0 0 1em 0;
-  border:solid red 1px;
 }
 .academic {
   width: 14em;
   float:right;
   margin: 0 0 1em 0;
-  border:solid green 1px;
 }
 .academic p {
   padding:0;
@@ -428,13 +425,11 @@ body{
 .left-column {
   width:14.5em;
   float:left;
-  border:solid pink 1px;
 }
 
 .right-column {
   width:14.5em;
   float:right;
-  border:solid orange 1px;
 }
 
 .eduheader{
@@ -446,32 +441,40 @@ body{
   border:solid white 1px;
 }
 
+.main-wrapper {
+  padding:20px;
+}
+.sidebar-wrapper {
+  padding:20px;
+}
+
+li i {
+  padding-right:10px;
+}
 
 @media screen and (max-width: 500px) {
-  body {
-    border: red 3px solid;
-  }
   #logo {
     width:300px;
   }
   .skillsrow .hidefrommobile {
     display:none;
   }
+    .container {
+      width: 100%;
+      padding-right: 6px;
+      padding-left: 6px;
+      margin-right: auto;
+      margin-left: auto;
+  }
 }
 
 @media screen and (max-width: 400px) {
-  body {
-    border: grey 3px solid;
-  }
   #logo {
     width:210px;
   }
 }
 
 @media screen and (max-width: 200px) {
-  body {
-    border: yellow 3px solid;
-  }
   #logo {
     width:200px;
   }

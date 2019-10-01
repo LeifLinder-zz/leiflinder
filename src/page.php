@@ -33,9 +33,6 @@ include('./includes/header.php');
         case "resume":
             include('includes/resume.php');
             break;
-            case "test":
-            include('includes/test.php');
-            break;
         default:
         include('includes/index.php');
        // print('<h3>Index Include</h3>');

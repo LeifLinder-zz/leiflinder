@@ -2,106 +2,104 @@
 <?php include( '../classes/class.education.view.php');?>
 <?php $resume = new resume;?>
 <?php $education = new education;?>
-
-<link rel="stylesheet" href="./css/resume.css">
-
+<!--<link rel="stylesheet" href="./css/resume.css">-->
 <div class="container">
-<ul class="nav nav-tabs" id="myTab" role="tablist">
-  <li class="active nav-item"><a data-toggle="tab" class="nav-link active" href="#resume">Resume</a></li>
-  <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#skills">Skills</a></li>
-  <!--
-  <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#achievments">Completed Projects</a></li>
-  -->
-  <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#eduction">Training / Education</a></li>
-</ul>
+   <ul class="nav nav-tabs" id="myTab" role="tablist">
+      <li class="active nav-item"><a data-toggle="tab" class="nav-link active" href="#resume">Resume</a></li>
+      <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#skills">Skills</a></li>
+      <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#eduction">Education</a></li>
+   </ul>
 
-<div class="tab-content">
- <div id="resume" class="tab-pane fade show active">
-  <div class="wrapper">
-      <div class="sidebar-wrapper">
-			<div class="profile-container">
-                <img class="profile whiteborder" src="http://localhost/leiflinder05/src/images/resume-icon2.png" alt="Resume Icon" width="150px" />
-                <h1 class="name">Leif Linder</h1>
-                <h3 class="tagline">Web Programmer</h3>
-      </div><!--//profile-container-->
-      <?PHP $resume->ContactInfo();?>
-</div>
-    <div class="main-wrapper">   
-      <!-- cool feature that shows raw XML in modal ---- 
-    <div class="XMLDatasource"><span><a href="#" data-toggle="modal" data-target="#resumeXML">XML Datasource</a></span></div>-->
-    <section class="section summary-section">
-            <section class="section experiences-section">
-                <h2 class="section-title">Work History</h2>
-                <?php $resume->jobs();?>
-          </section>
-    </div>
-  </div>
-</div>
+<style>
+    .sidebar-wrapper{
+        display:block;
+        float:right;
+        width:28%;
+    }
+    .main-wrapper {
+        display:block;
+        float:left;
+        width:70%;
+        border:solid red 2px;
+        clear:both;
+    }
+    @media screen and (max-width: 700px) {
+            .sidebar-wrapper{
+            float:none;
+            width:100%;
+        }
+            .main-wrapper {
+            float:none;
+            width:100%;
+        }
+        .resume_icons {
+            width:30%;
+        }
+   }
 
-
-  <div id="skills" class="tab-pane fade">
-  <div class="wrapper">
-  <div class="sidebar-wrapper">
-					<div class="profile-container">
-                    <a href="#">
-                    <img class="profile whiteborder" src="http://localhost/leiflinder05/src/images/skills-icon.png" alt="Skills Icon" width="150px" />
-          </a>
-          <h1 class="name">Leif Linder</h1>
-                <h3 class="tagline">Web Programmer</h3>
-      </div><!--//profile-container-->
-          <?PHP $resume->ContactInfo();?>
-          </div>
-    <div class="main-wrapper"> 
-    <section class="section experiences-section">
-    <h2 class="section-title">Coding Skills</h2>
-    <?php $resume->skills();?>
-</section>
-</div>
-  </div>
-</div>
+</style>
 
 
-
-<div id="eduction" class="tab-pane fade">
-  <div class="wrapper">
-				<div class="sidebar-wrapper">
-        <div class="profile-container">
-                    <a href="#">
-                    <img class="profile whiteborder" src="http://localhost/leiflinder05/src/images/training-icon.png" alt="Training Icon" width="150px" />
-          </a>
-          <h1 class="name">Leif Linder</h1>
-                <h3 class="tagline">Web Programmer</h3>
-      </div><!--//profile-container-->
-          <?PHP $resume->ContactInfo();?>
-          </div>
-    <div class="main-wrapper"> 
-    <?php $education->showEducation();?>
-</div>
-  </div>
-</div>
-
-</div>
-</div>
-
-
-<!--- MODALS ---------------------------------->
-
-<div class="modal fade photoLargeModal" id="resumeXML" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="photo-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">XML Document</h5>
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        </button>
+   <div class="tab-content" style="border:solid green 2px;">
+      <div id="resume" class="tab-pane fade show active">
+         <div class="wrapper">
+         <div class="main-wrapper clear_right">
+            <?php $resume->jobs();?>
+         </div>
+            <div class="sidebar-wrapper" style="border:solid red 2px;">
+               <div class="profile-container">
+                  <img class="profile whiteborder resume_icons" src="http://localhost/leiflinder05/src/images/resume-icon2.png" alt="Resume Icon" />
+                  <h1 class="name">Leif Linder</h1>
+                  <h3 class="tagline">Web Programmer</h3>
+               </div>
+               <?PHP $resume->ContactInfo();?>
+            </div>
+            <br class="clear_left"/>
+         </div>
       </div>
-      <div class="modal-body">
-        <?php
-           // $xml_as_text = print_XML_as_text($resume->xml_object);
-           // print($xml_as_text);
-          //  print("some text here");
-         // $resume->print_XML_as_text();
-        ?>
+
+
+
+      <div id="skills" class="tab-pane fade">
+         <div class="wrapper">
+            <div class="main-wrapper clear_right">
+                <?php $resume->skills();?>
+            </div>
+            <div class="sidebar-wrapper" style="border:solid red 2px">
+               <div class="profile-container">
+                  <a href="#">
+                  <img class="profile whiteborder resume_icons" src="http://localhost/leiflinder05/src/images/skills-icon.png" alt="Skills Icon" />
+                  </a>
+                  <h1 class="name">Leif Linder</h1>
+                  <h3 class="tagline">Web Programmer</h3>
+               </div>
+               <!--//profile-container-->
+               <?PHP $resume->ContactInfo();?>
+            </div>
+            <br class="clear_left"/>
+         </div>
       </div>
-    </div>
-  </div>
+
+
+      <div id="eduction" class="tab-pane fade"> 
+         <div class="wrapper">
+            <div class="main-wrapper clear_right">
+                <?php $education->showEducation();?>
+            </div>
+            <div class="sidebar-wrapper" style="border:solid red 2px">
+               <div class="profile-container">
+                  <a href="#">
+                  <img class="profile whiteborder resume_icons" src="http://localhost/leiflinder05/src/images/training-icon.png" alt="Skills Icon" />
+                  </a>
+                  <h1 class="name">Leif Linder</h1>
+                  <h3 class="tagline">Web Programmer</h3>
+               </div>
+               <!--//profile-container-->
+               <?PHP $resume->ContactInfo();?>
+            </div>
+            <br class="clear_left"/>
+         </div>
+      </div>
+
+   </div>
 </div>

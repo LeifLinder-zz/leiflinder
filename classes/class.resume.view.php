@@ -77,12 +77,22 @@ class resume
     function ContactInfo(){
         print('
         <ul class="list-unstyled contact-list">
+
             <li class="email"><i class="fa fa-envelope"></i><a href="mailto: leif@leiflinder.com">leif@leiflinder.com</a></li>
-            <li class="phone"><i class="fa fa-phone"></i><a href="tel:+47 46 901 863">+47 46 901 863</a></li>
-            <li class="website"><i class="fa fa-globe"></i><a href="http://leiflinder.com/portfolio.php" target="_blank">leiflinder.com</a></li>
-            <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://no.linkedin.com/in/leiflinder" target="_blank">linkedin.com/in/leiflinder</a></li>
-            <li class="github"><i class="fa fa-github"></i><a href="https://github.com/LeifLinder" target="_blank">github.com/LeifLinder</a></li>
-            <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/leif_media?lang=en" target="_blank">@leif_media</a></li>
+
+            <li class="phone"><i class="fa fa-phone"></i>Seattle, USA <br/><a href="tel:12063304784">1 206 330 4784</a></li>
+
+            <li class="phone"><i class="fa fa-phone"></i>Oslo, Norway <br/><a href="tel:+47 46 901 863">+47 46 901 863</a></li>
+
+            <li class="linkedin"><i class="fab fa-linkedin-in"></i><a href="https://no.linkedin.com/in/leiflinder" target="_blank">linkedin</a></li>
+
+            <li class="github"><i class="fab fa-github"></i> <a href="https://github.com/LeifLinder" target="_blank">github.com/LeifLinder</a></li>
+
+            <li class="website"><i class="fa fa-globe"></i> <a href="http://punkmother.com" target="_blank">PUNKMOTHER.com</a></li>
+
+            <li class="website"><i class="fa fa-globe"></i> <a href="http://leifmedia.com" target="_blank">leifmedia.com</a></li>
+
+            <li class="website"><i class="fa fa-globe"></i> <a href="http://lindercreative.com" target="_blank">lindercreative.com</a></li>
         </ul>
     ');
     }
