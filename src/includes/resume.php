@@ -5,11 +5,11 @@
 <!--<link rel="stylesheet" href="./css/resume.css">-->
 <div class="container">
    <ul class="nav nav-tabs" id="myTab" role="tablist">
-      <li class="active nav-item"><a data-toggle="tab" class="nav-link active" href="#resume">Resume</a></li>
-      <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#skills">Skills</a></li>
-      <li class="nav-item"><a data-toggle="tab" class="nav-link" href="#eduction">Education</a></li>
+      <li class="active nav-item tab_menu_link"><a data-toggle="tab" class="nav-link active" href="#resume">Resume</a></li>
+      <li class="nav-item tab_menu_link"><a data-toggle="tab" class="nav-link" href="#skills">Skills</a></li>
+      <li class="nav-item tab_menu_link"><a data-toggle="tab" class="nav-link" href="#eduction">Education</a></li>
    </ul>
-
+<!--
 <style>
     .sidebar-wrapper{
         display:block;
@@ -20,7 +20,6 @@
         display:block;
         float:left;
         width:70%;
-        border:solid red 2px;
         clear:both;
     }
     @media screen and (max-width: 700px) {
@@ -38,19 +37,19 @@
    }
 
 </style>
+-->
 
-
-   <div class="tab-content" style="border:solid green 2px;">
+   <div class="tab-content">
       <div id="resume" class="tab-pane fade show active">
          <div class="wrapper">
          <div class="main-wrapper clear_right">
             <?php $resume->jobs();?>
          </div>
-            <div class="sidebar-wrapper" style="border:solid red 2px;">
+            <div class="sidebar-wrapper">
                <div class="profile-container">
-                  <img class="profile whiteborder resume_icons" src="http://localhost/leiflinder05/src/images/resume-icon2.png" alt="Resume Icon" />
-                  <h1 class="name">Leif Linder</h1>
-                  <h3 class="tagline">Web Programmer</h3>
+                  <img class="profile whiteborder resume_icons" src="http://localhost/leiflinder05/src/images/resume-icon2.png" alt="Resume Icon" /> 
+                  <p class="myName">Leif Linder</p>
+                  <P>Web Programmer</p>
                </div>
                <?PHP $resume->ContactInfo();?>
             </div>
@@ -65,15 +64,14 @@
             <div class="main-wrapper clear_right">
                 <?php $resume->skills();?>
             </div>
-            <div class="sidebar-wrapper" style="border:solid red 2px">
+            <div class="sidebar-wrapper">
                <div class="profile-container">
                   <a href="#">
                   <img class="profile whiteborder resume_icons" src="http://localhost/leiflinder05/src/images/skills-icon.png" alt="Skills Icon" />
                   </a>
-                  <h1 class="name">Leif Linder</h1>
-                  <h3 class="tagline">Web Programmer</h3>
+                  <h3 class="name">Leif Linder</h3>
+                  <h4 class="tagline">Web Programmer</h4>
                </div>
-               <!--//profile-container-->
                <?PHP $resume->ContactInfo();?>
             </div>
             <br class="clear_left"/>
@@ -86,15 +84,14 @@
             <div class="main-wrapper clear_right">
                 <?php $education->showEducation();?>
             </div>
-            <div class="sidebar-wrapper" style="border:solid red 2px">
+            <div class="sidebar-wrapper">
                <div class="profile-container">
                   <a href="#">
                   <img class="profile whiteborder resume_icons" src="http://localhost/leiflinder05/src/images/training-icon.png" alt="Skills Icon" />
                   </a>
-                  <h1 class="name">Leif Linder</h1>
-                  <h3 class="tagline">Web Programmer</h3>
+                  <h3 class="name">Leif Linder</h3>
+                  <h4 class="tagline">Web Programmer</h4>
                </div>
-               <!--//profile-container-->
                <?PHP $resume->ContactInfo();?>
             </div>
             <br class="clear_left"/>

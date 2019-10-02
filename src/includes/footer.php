@@ -1,26 +1,21 @@
     <footer class="py-5 footergradient">
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
-            <img src="http://localhost/leiflinder05/src/assets/footer-logo.png"/>
+ 
+  <div class="col-md-4 col-sm-12">
+  <img src="http://localhost/leiflinder05/src/assets/footer-logo.png" class="center"/>
   </div>
-  <div class="col-md-8">
-  <nav class="navbar navbar-expand-lg navbar-light masthead">
-  <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="leiflinder.php?page=about">Contact</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="leiflinder.php?page=portfolio">Privacy Policy</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="leiflinder.php?page=resume">Resume</a>
-            </li>
-          </ul>
-  </nav>
+  <div class="col-md-2 col-sm-12">
+  <p  class="nav-item" align="center"><a class="nav-link" href="?page=contact ">Contact</a></p>
+  </div>
+  <div class="col-md-3 col-sm-12">
+  <p  class="nav-item" align="center"><a class="nav-link" href="?page=privacy">Privacy Policy</a></p>
+  </div>
+  <div class="col-md-3 col-sm-12">
+  <p  class="nav-item" align="center"><a class="nav-link" href="?page=about">About</a></p>
   </div>
   </div>
-        <!--<p class="m-0 text-center text-black">Copyright &copy; Leif Linder 2019</p>-->
+
       </div>
       <!-- /.container -->
     </footer>

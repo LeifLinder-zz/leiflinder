@@ -78,21 +78,25 @@ class resume
         print('
         <ul class="list-unstyled contact-list">
 
+            <li class="phone"><strong>USA</strong> <a href="tel:12063304784">1 206 330 4784</a></li>
+
+            <li class="phone"><strong>Norway</strong> <a href="tel:+47 46 901 863">+47 46 901 863</a></li>
+            <br/>
             <li class="email"><i class="fa fa-envelope"></i><a href="mailto: leif@leiflinder.com">leif@leiflinder.com</a></li>
 
-            <li class="phone"><i class="fa fa-phone"></i>Seattle, USA <br/><a href="tel:12063304784">1 206 330 4784</a></li>
-
-            <li class="phone"><i class="fa fa-phone"></i>Oslo, Norway <br/><a href="tel:+47 46 901 863">+47 46 901 863</a></li>
+            <br/>
 
             <li class="linkedin"><i class="fab fa-linkedin-in"></i><a href="https://no.linkedin.com/in/leiflinder" target="_blank">linkedin</a></li>
 
-            <li class="github"><i class="fab fa-github"></i> <a href="https://github.com/LeifLinder" target="_blank">github.com/LeifLinder</a></li>
+            <li class="github"><i class="fab fa-github"></i> <a href="https://github.com/LeifLinder" target="_blank">github</a></li>
 
-            <li class="website"><i class="fa fa-globe"></i> <a href="http://punkmother.com" target="_blank">PUNKMOTHER.com</a></li>
+            <br/>
 
-            <li class="website"><i class="fa fa-globe"></i> <a href="http://leifmedia.com" target="_blank">leifmedia.com</a></li>
+            <li class="website"><i class="fa fa-globe"></i> <a href="http://punkmother.com" target="_blank">PUNKMOTHER</a></li>
 
-            <li class="website"><i class="fa fa-globe"></i> <a href="http://lindercreative.com" target="_blank">lindercreative.com</a></li>
+            <li class="website"><i class="fa fa-globe"></i> <a href="http://leifmedia.com" target="_blank">LEIFMEDIA</a></li>
+
+            <li class="website"><i class="fa fa-globe"></i> <a href="http://lindercreative.com" target="_blank">LINDERCREATIVE</a></li>
         </ul>
     ');
     }

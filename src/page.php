@@ -5,9 +5,6 @@ include('./includes/header.php');
 
 <?PHP
  if(isset($_GET['page'])){
-     //resume
-     //portfolio
-     //resume
      switch ($_GET['page']) {
         case "index":
             include('includes/index.php');
@@ -15,8 +12,8 @@ include('./includes/header.php');
         case "about":
             include('includes/about.php');
             break;
-            case "about3":
-            include('includes/about3.php');
+        case "about2":
+            include('includes/about2.php');
             break;
         case "photography":
             include('includes/photography.php');
@@ -33,13 +30,17 @@ include('./includes/header.php');
         case "resume":
             include('includes/resume.php');
             break;
+        case "contact":
+            include('includes/contact.php');
+            break;
+        case "privacy":
+            include('includes/privacy.php');
+            break;
         default:
-        include('includes/index.php');
-       // print('<h3>Index Include</h3>');
+            include('includes/index.php');
     }
  }else{
      include('includes/index.php');
-   // print('<h3>Index Include</h3>');
  }
 ?>
 
