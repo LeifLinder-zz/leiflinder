@@ -20,30 +20,19 @@
     </personalinfo>
    <resumetexts>
         <intro>
-        <p>Hello, my name is Leif Linder. I am a web developer and world citizen. Although I was born in Seattle my professional life started in New York City, first in stock and lifestyle photography and later in programming school and as a web developer.
-        </p>
-        <p>I have a long history in image making and expressive arts and have an emotional and creative personality that relies heavily on intuition a visual harmony. I love symmetry in design and code. I love the balance of design ethnic Ivory Coast masks, but also XML code and the nestes tags that describe not only the content but its relation with a complex.
-        </p>
-        <p>In this way I always looking for the rhythm of underlying systems, which means I start out slow. Slow to understand and slow to create. But will suddenly begin creating projects that win the support of directors. [see New York Road Runner Projects].
-        </p>
-        <p>I have the ability to see where trends are really going and the ability to verbalize and intangible and as-yet unrecognized concensus in the collective consciouness [see my predictions].</p>
-        <p>My selling point is my vision. Not for everyone. Not for every job. I am not a machine. I feel and have feelings. I want to create applications that facilate the human species to evlove to higher spiritual planes. And to this end I know exactly what to do [See my current projects]</p>
+        <p>Hello, my name is Leif Linder. I am a web developer from Seattle Washington but have lived all over the world. I studied Web Developing in New York and worked as on primarily PHP based web applications for many years.</p>
+        <p>Although coding is my current professional I have worked in the stock photography business as an image researcher and supplier of images.</p>
+        <p>My college education is in Media and writing for media and new writing. I am maninly professionally concerned with creating documents, whether that be as web code or images or news and journalism.</p>
         </intro>
-        <freetime>
-        <p>"Move through time and space" is something I am saying a lot lately. I like to spend my free riding through the city or getting on a train and going someplace interesting. I like moving and being outside early. I like activities where I am going someplace and feeling the wind in my face.</p> 
-        <p>I also play guitar and run marathons.</p>
 
+        <freetime>
+        <p>"Move through space and time" is something I say a lot. I really enjoy going places on my bike or bus or tram.</p>
+        <p>I like to take the train  and I like to fly to different cities and learn their transit system.</p>
+        <p>In one form or another I am always traveling. I am not a person who wants to lie on the beach or lounge at a spa. I always have to have action and adventure, when I am not working.</p> 
         </freetime>
-        <personalitytype>
-        INTP
-        </personalitytype>
-        <personality>
-        <p>I am a highly creative person according to personality testing and rely heavily on intuition. I am mostly interested in the heavy subjects and am not great at small talk but can become quite passionate when talking about ideas or concepts.</p>
-        <p>Although I have an INTP personality type I am not a cold nerd and I truly care about people's feelings. My empathy for people is high and I am concerned about the generally happiness of my workplace and maintaining personal communications by always treating my coworkers with respect. I don't gossip or create unwarranted drama.</p>
-        </personality>
     </resumetexts>
     <goals>
-        <p>My current goal is to be working with a team of developers creating really interesting digital products.</p>
-        <p>I want to be part of something I find both artistically challenging and fullfiling. And I want to collaborate with people who recognise my odd genius and be kindred spirirts</p>
+        <p>My goal is to develop my current ideas including a delivery app and a social media app for artists and musician. These are concrete goals although I also have less tangible goals.</p>
+        <p>I would like to work in a place where we do something I am proud of and proud to be a part of. I want to work where my ability to be creative and design systems is valued. It would be great to work with relaxed and friendly people and to have a fun mix of worktime and creative time.</p>
     </goals>
 </about>

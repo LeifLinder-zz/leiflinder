@@ -27,10 +27,6 @@
         <personalitytype>
         INTP
         </personalitytype>
-        <personality>
-        <p>I am a highly creative person according to personality testing and rely heavily on intuition. I am mostly interested in the heavy subjects and am not great at small talk but can become quite passionate when talking about ideas or concepts.</p>
-        <p>Although I have an INTP personality type I am not a cold nerd and I truly care about people's feelings. My empathy for people is high and I am concerned about the generally happiness of my workplace and maintaining personal communications by always treating my coworkers with respect. I don't gossip or create unwarranted drama.</p>
-        </personality>
     </resumetexts>
     <jobs>
         <job>
@@ -43,7 +39,7 @@
             <jobfinishyear>2019</jobfinishyear>
             <companyname>Foodora AS</companyname>
             <companyaddress>Olso Norway</companyaddress>
-            <jobdescription>Martian Rocket</jobdescription>
+            <jobdescription>I delivered food from restaurants to Olso residents throughout the neighborhoods by bicycle. This was an extremely physical job and required ability to ride fast for six hours and longer. Extreme cold and ice and snow for 5 months a year and ability to be please while enduring hardship.</jobdescription>
         </job>
         <job>
             <jobid>1002</jobid>
@@ -68,7 +64,7 @@
             <jobfinish>2012</jobfinish>
             <jobfinishyear>2012</jobfinishyear>
             <jobdescription>
-            Built HTML pages for New York Road Runners, New York City Marathon. Built PHP Sweepstakes web applications for runners to win entry.
+            Built HTML pages for New York Road Runners, New York City Marathon. Built PHP Sweepstakes web applications for runners to win entry. Required ability to write code without a wizzywig and quickly post updated content in real time.
             </jobdescription>
         </job>
         <job>
@@ -82,6 +78,48 @@
             <jobfinishyear>2010</jobfinishyear>
             <jobdescription>
             I built three drupal websites for McFadden Media. Point Magazine, Dance Teacher News and Dance Retailer News. In addition I created an internal website for employees use.
+            </jobdescription>
+        </job>
+
+        <job>
+            <jobid>1005</jobid>
+            <jobtitle>Web Developer</jobtitle>
+            <companyname>Media Leaf Inc.</companyname>
+            <joblocation>New York, New York</joblocation>
+            <jobstart>2006</jobstart>
+            <jobstartyear>2006</jobstartyear>
+            <jobfinish>2010</jobfinish>
+            <jobfinishyear>2010</jobfinishyear>
+            <jobdescription>
+            Media Leaf Design is my independent company registered with the state of New York. For several years I built many websites most notably the registration system for the Northwest Senior Games, using PHP/MySQL for the backend and HTML/CSS for the front end. I created designs with Adobe Illustrator and worked with my clients to build websites and digital products.
+            </jobdescription>
+        </job>
+
+        <job>
+            <jobid>1006</jobid>
+            <jobtitle>Photo Researcher</jobtitle>
+            <companyname>Bruce Coleman, Inc</companyname>
+            <joblocation>New York, New York</joblocation>
+            <jobstart>2000</jobstart>
+            <jobstartyear>2000</jobstartyear>
+            <jobfinish>2002</jobfinish>
+            <jobfinishyear>2002</jobfinishyear>
+            <jobdescription>
+          Photo researcher for million image library for of mostly animals and science related geopgraphy. Fielded seach requests submiited to the office and supplied textbook pulishers, magazines and newspapers with images. This job required solid knowledge of science and geography in addition to an understanding of image quality and negotiation skills for determining usage and price.
+            </jobdescription>
+        </job>
+    
+        <job>
+            <jobid>1007</jobid>
+            <jobtitle>Assitant Photo Editor</jobtitle>
+            <companyname>Nonstock Photo Archive</companyname>
+            <joblocation>New York, New York</joblocation>
+            <jobstart>1998</jobstart>
+            <jobstartyear>1998</jobstartyear>
+            <jobfinish>2000</jobfinish>
+            <jobfinishyear>2000</jobfinishyear>
+            <jobdescription>
+
             </jobdescription>
         </job>
     </jobs>

@@ -536,13 +536,13 @@ li i {
 	margin-top: 20px;
 }
 
-.myName {
-	margin: 4px 0px -3px 8px;
+.myName {	
 	font-size: 160%;
 }
 
-.profile-container p {
+.sidebar-wrapper .profile-container p {
 	margin-left: 8px;
+	line-height: 1;
 }
 
 .contact-list li {
@@ -553,14 +553,13 @@ li i {
 	display: block;
 	float: right;
   width: 28%;
-  padding: 20px;
+  padding: 0 20px 20px 20px;
   background: white;
   height: 100%;
   color: #444;
  /* border-left:solid 1px #ccc;*/
 }
 .wrapper {
-  margin-top:20px;
   background: white;
  /* border:solid 1px #ccc;
   -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
@@ -572,12 +571,6 @@ li i {
   line-height: 1.5;
 }
 .sidebar-wrapper a {
-  color: #444;
-}
-.sidebar-wrapper .profile-container {
-  padding: 30px 0 20px 0;
-  background: white;
-  /*text-align: center;*/
   color: #444;
 }
 .main-wrapper {
