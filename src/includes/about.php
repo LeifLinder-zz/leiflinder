@@ -21,7 +21,7 @@
                <div class="profile-container">
                   <img class="profile whiteborder resume_icons" src="http://localhost/leiflinder05/src/images/home-1001.png" alt="Resume Icon" /> 
                   <p class="myName">Leif Linder</p>
-                  <P>Web Programmer</p>
+                  <p>Web Programmer</p>
                </div>
                <?PHP $resume->ContactInfo();?>
             </div>
@@ -42,7 +42,7 @@
                   <img class="profile whiteborder resume_icons" src="http://localhost/leiflinder05/src/images/freetime2-icon.png" alt="Skills Icon" />
                   </a>
                   <h3 class="name">Leif Linder</h3>
-                  <h4 class="tagline">Web Programmer</h4>
+                  <p>Web Programmer</p>
                </div>
                <?PHP $resume->ContactInfo();?>
             </div>
@@ -62,7 +62,7 @@
                   <img class="profile whiteborder resume_icons" src="http://localhost/leiflinder05/src/images/goals-icon.png" alt="Skills Icon" />
                   </a>
                   <h3 class="name">Leif Linder</h3>
-                  <h4 class="tagline">Web Programmer</h4>
+                  <p>Web Programmer</p>
                </div>
                <?PHP $resume->ContactInfo();?>
             </div>

@@ -119,7 +119,7 @@
             <jobfinish>2000</jobfinish>
             <jobfinishyear>2000</jobfinishyear>
             <jobdescription>
-
+            At this boutique stock photography agency I was responsible for traffficing of orginal photographs to be reproduced. Required absolute attention to detail for processing of original art work. Other aspects of the role entailed acting a liaison to photographers and entering keyword information into database.
             </jobdescription>
         </job>
     </jobs>
@@ -170,10 +170,21 @@
         </skill>
         <skill>
             <skilltitle>
-            MISC
+            Studio Photography
             </skilltitle>
             <skilldescription>
-            Here are skills I have experience with or are learning now. 
+            I have a wide knowledge of studio lighting from my training at the International Center of Photography in New York. I can coordinate the subject lighting to the background and have control over depth of field. Additionally I am a fast street photographer and daring journalist image-maker. I have shot wedding and headshots and much stock photography.
+            </skilldescription>
+            <skillexamples>
+            Examples of CSS and SASS
+            </skillexamples>
+        </skill>
+        <skill>
+            <skilltitle>
+            Design
+            </skilltitle>
+            <skilldescription>
+            With Adobe Illustrator I can create logos, website mockups, wireframes and finished commercial advertising imagery. I enjoy desiging "edgy" art and creating website graphics.
             </skilldescription>
             <skillexamples>
             Examples of CSS and SASS

@@ -45,6 +45,9 @@ body {
 	content: "Screen Width";
 }
 
+.details {
+	margin-bottom:50px;
+}
 
 /* Small devices (landscape phones, 576px and up)*/
 

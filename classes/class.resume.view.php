@@ -91,12 +91,13 @@ class resume
             <li class="github"><i class="fab fa-github"></i> <a href="https://github.com/LeifLinder" target="_blank">github</a></li>
 
             <br/>
-
+            <!--
             <li class="website"><i class="fa fa-globe"></i> <a href="http://punkmother.com" target="_blank">PUNKMOTHER</a></li>
 
             <li class="website"><i class="fa fa-globe"></i> <a href="http://leifmedia.com" target="_blank">LEIFMEDIA</a></li>
 
             <li class="website"><i class="fa fa-globe"></i> <a href="http://lindercreative.com" target="_blank">LINDERCREATIVE</a></li>
+            -->
         </ul>
     ');
     }
