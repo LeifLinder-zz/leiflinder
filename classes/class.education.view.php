@@ -26,9 +26,17 @@ var $education_array = Array();
             print('<div class="card" style="width: 90;">
             <div class="card-body">
               <h5 class="card-title">'.$this->education_array[$i]['title'].'</h5>
-              <h6 class="card-subtitle mb-2 text-muted">'.$this->education_array[$i]['school'].'</h6>
+              
+              <div class="holds_college_and_date_combo">
+                <div class="holds_college_name">
+                  <h6 class="card-subtitle mb-2 text-muted">'.$this->education_array[$i]['school'].'</h6>
+                </div>
+                <div class="holds_college_year">
+                  <a href="#" class="card-link">'.$this->education_array[$i]['year'].'</a>
+                </div>
+              </div>
+
               <a target="_blank" href="'.$this->education_array[$i]['certlink'].'" class="card-link">'.$this->education_array[$i]['achievment'].'</a>
-              <a href="#" class="card-link">'.$this->education_array[$i]['year'].'</a>
             </div>
           </div>');        
             }
