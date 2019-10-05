@@ -8,9 +8,6 @@
             <a href="./page.php?page=code&codeid=1017">MySQL</a>
           </li>
           <li>
-            <a href="./page.php?page=code&codeid=1018">MongoDB</a>
-          </li>
-          <li>
             <a href="./page.php?page=code&codeid=1019">Linux</a>
           </li>
           <li>

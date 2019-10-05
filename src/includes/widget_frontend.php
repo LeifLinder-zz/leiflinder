@@ -17,15 +17,6 @@
             <a href="./page.php?page=code&codeid=1004">HTML</a>
           </li>
           <li>
-            <a href="./page.php?page=code&codeid=1002">AngularJS</a>
-          </li>
-          <li>
-            <a href="./page.php?page=code&codeid=1011">ReactJS</a>
-          </li>
-          <li>
-            <a href="./page.php?page=code&codeid=1012">TypeScript</a>
-          </li>
-          <li>
             <a href="./page.php?page=code&codeid=1003">LESS</a>
           </li>
         </ul>
@@ -40,9 +31,6 @@
           </li>
           <li>
             <a href="./page.php?page=code&codeid=1014">InDesign</a>
-          </li>
-          <li>
-            <a href="./page.php?page=code&codeid=1015">Cordova</a>
           </li>
         </ul>
       </div>

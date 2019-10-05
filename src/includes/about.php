@@ -19,7 +19,7 @@
          </div>
             <div class="sidebar-wrapper">
                <div class="profile-container">
-                  <img class="profile whiteborder resume_icons" src="http://localhost/leiflinder05/src/images/home-1001.png" alt="Resume Icon" /> 
+                  <img class="profile whiteborder resume_icons" src="./images/home-1001.png" alt="Resume Icon" /> 
                   <p class="myName">Leif Linder</p>
                   <p>Web Programmer</p>
                </div>
@@ -39,7 +39,7 @@
             <div class="sidebar-wrapper">
                <div class="profile-container">
                   <a href="#">
-                  <img class="profile whiteborder resume_icons" src="http://localhost/leiflinder05/src/images/freetime2-icon.png" alt="Skills Icon" />
+                  <img class="profile whiteborder resume_icons" src="./images/freetime2-icon.png" alt="Skills Icon" />
                   </a>
                   <h3 class="name">Leif Linder</h3>
                   <p>Web Programmer</p>
@@ -59,7 +59,7 @@
             <div class="sidebar-wrapper">
                <div class="profile-container">
                   <a href="#">
-                  <img class="profile whiteborder resume_icons" src="http://localhost/leiflinder05/src/images/goals-icon.png" alt="Skills Icon" />
+                  <img class="profile whiteborder resume_icons" src="./images/goals-icon.png" alt="Skills Icon" />
                   </a>
                   <h3 class="name">Leif Linder</h3>
                   <p>Web Programmer</p>

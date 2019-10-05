@@ -10,7 +10,7 @@ var $Color_Horizontal = Array();
     function __construct()
     { 
         // load XML into object
-        $xml_object = simplexml_load_file('http://localhost/leiflinder05/XML/photos.xml');
+        $xml_object = simplexml_load_file('../XML/photos.xml');
         // encode object into json file
         $json = json_encode($xml_object);
         // decode json fil into multidimensional array

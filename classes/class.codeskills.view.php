@@ -45,7 +45,6 @@ print('<div class="spec"><div class="card linder-card">
       <div class="card-body">
         <h4 class="card-title">'.$codetitle.'</h4>
         <p class="card-text">'.$description.'</p>
-        <p><a href="#">'.$codetitle.' GitHub</a></p>
     </div>
 </div></div>');
         }
@@ -66,7 +65,6 @@ print('<div class="spec"><div class="card linder-card">
                     <div class="card-body">
                         <h4 class="card-title">'.$codetitle.'</h4>
                         <p class="card-text">'.$description.'</p>
-                        <p><a href="#">'.$codetitle.' GitHub</a></p>
                     </div>
                 </div></div>');
              }else{

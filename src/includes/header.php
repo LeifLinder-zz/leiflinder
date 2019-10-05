@@ -9,6 +9,12 @@
       <link rel="stylesheet" href="./css/bootstrap.css">
       <link rel="stylesheet" href="./css/styles.css">
       <link href="https://fonts.googleapis.com/css?family=Mandali|Muli|Oswald|Roboto&display=swap" rel="stylesheet">
+
+      <meta property="og:url" content="http://www.leiflinder.com" />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="Leif Linder PHP Programmer" />
+      <meta property="og:description" content="Leif Linder personal website for web developing" />
+      <meta property="og:image" content="./images/leiflinder_facebook_post.png" />
    </head>
    <body>
       <div class="container">

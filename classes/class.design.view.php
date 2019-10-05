@@ -9,7 +9,7 @@ var $Logo = Array();
     function __construct()
     {
         // load XML into object
-        $xml_object = simplexml_load_file('http://localhost/leiflinder05/XML/designs.xml');
+        $xml_object = simplexml_load_file('../XML/designs.xml');
         // encode object into json file
         $json = json_encode($xml_object);
         // decode json fil into multidimensional array
@@ -93,5 +93,10 @@ var $Logo = Array();
         }
     }
 
+    function design_banner_pic($image){
+        print('<div class="row>');
+        print("<img class='design_banner_pic' src='./assets/DesignPictures/Horizantal/1012h.png'/>");
+        print('</div>');
+    }
 }
 ?>

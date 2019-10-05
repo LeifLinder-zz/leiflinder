@@ -440,4 +440,34 @@
       <description>Linder Design</description>
       <builddate>2019/07/15</builddate>
    </design>
+   <design>
+      <designid>d1049</designid>
+      <title>Linder Design</title>
+      <imgsrc>./assets/Designs/d1049.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1049-Large.png</imgsrcLarge>
+      <type>Design</type>
+      <position>0</position>
+      <description>Linder Design</description>
+      <builddate>2019/08/15</builddate>
+   </design>
+   <design>
+      <designid>d1050</designid>
+      <title>Princess Worrior</title>
+      <imgsrc>./assets/Designs/d1050.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1050-Large.png</imgsrcLarge>
+      <type>Design</type>
+      <position>0</position>
+      <description>Linder Design</description>
+      <builddate>2019/08/15</builddate>
+   </design>
+   <design>
+      <designid>d1051</designid>
+      <title>I miss your starship</title>
+      <imgsrc>./assets/Designs/d1051.png</imgsrc>
+      <imgsrcLarge>./assets/Designs/d1051-Large.png</imgsrcLarge>
+      <type>Design</type>
+      <position>0</position>
+      <description>Linder Design</description>
+      <builddate>2019/08/15</builddate>
+   </design>
 </designs>

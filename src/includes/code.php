@@ -1,14 +1,9 @@
-<nav aria-label="breadcrumb">
-   <ol class="breadcrumb">
-      <li class="breadcrumb-item"><a href="./">Home</a></li>
-      <li class="breadcrumb-item active" aria-current="page">Code</li>
-   </ol>
-</nav>
+
 <!-- Page Content -->
 <div class="container">
    <div class="row">
       <!-- Sidebar Widgets Column -->
-      <div class="col-md-4">
+      <div class="col-md-4 gone_when_500px">
          <?PHP include('./includes/widget_frontend.php');?>
          <?PHP include('./includes/widget_backend.php');?>
       </div>

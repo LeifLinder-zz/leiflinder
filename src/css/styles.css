@@ -417,7 +417,7 @@ body {
 }
 
 .linder-card {
-	border: solid red 1px
+	border: solid white 1px
 }
 
 .spec .linder-card {
@@ -588,7 +588,71 @@ li i {
 .tab_menu_link {
   font-size:120%;
 }
+.holds_college_year{
+	border:solid red 1px;
+	width:100px;
+	height:20px;
+	display:block;
+	float:right;
+}
+.holds_college_name{
+	width:320px;
+	height:20px;
+	display:block;
+	float:left;
+	border:solid red 1px;
+}
+.edutype {
+	color:#999;
+	padding: 3px;
+	margin-bottom: 20px;
+	border-bottom: 10px solid #e5e5e5;
+}
+.design_banner_pic {
+	width:80%;
+}
+.img-thumbnail {
+	background-image: url('./images/giphy.gif');
+	background-color: #cccccc;
+}
+.nav-item {
+	margin: 2px;
+}
+.nav-link {
+    padding: 0.5rem 0.5rem;
+}
+
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 0.5rem 1.5rem;
+    clear: both;
+	font-weight: 400;
+	font-size:110%;
+    color: #212529;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: 
+    transparent;
+    border: 0;
+}
 @media screen and (max-width: 500px) {
+	.gone_when_500px {
+		display:none; 
+	}
+	.photoLargeModal {
+		width:98%;
+	}
+	.photoLargeModal img {
+		width:97%;
+	}
+	.phototypes .list-group-item {
+		display: block;
+		width:95%;
+	}
+	.list-group-horizontal {
+		flex-direction: column;
+	}
 	#logo {
 		width: 300px;
 	}

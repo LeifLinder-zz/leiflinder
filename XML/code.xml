@@ -20,7 +20,7 @@ I have a good understanding of client-side Javasript frameworks and experience b
         <codetitle>CSS</codetitle>
         <codeid>1003</codeid>
         <description>
-        I have a strong understanding and years of practical experience using CSS. I use SASS preprocessor for the convenience of variables and mixins to reduce code redundancy.
+        With CSS I can build stylesheets that are logical and easy to understand and update. I use SASS preprocessor for the convenience of variables and mixins and to avoid code redundancy.
         </description>
         <github>https://github.com/LeifLinder/</github>
     </code>
@@ -28,7 +28,7 @@ I have a good understanding of client-side Javasript frameworks and experience b
         <codetitle>HTML</codetitle>
         <codeid>1004</codeid>
         <description>
-        I can quickly write HTML code by hand without needing to look up tags and understand the benefits of HTML5 and semantic coding principles for the interpolation of code by various devices and screen sizes.
+        I can build pages without consulting the web to remember the tags. In all my pages I try to follow symantic principles and ofter turn off style to see how the browser really sees the page. Also. Am up-to-date with HTML5 special tags.
         </description>
         <github>https://github.com/LeifLinder/</github>
     </code>
@@ -68,7 +68,7 @@ I have a good understanding of client-side Javasript frameworks and experience b
         <codetitle>Illustrator</codetitle>
         <codeid>1009</codeid>
         <description>
-        Description of Illustrator training and work.
+        please see my designs. I have a good working knowledge of Illustrator and geniunely enjoy building art and mockups.
         </description>
         <github></github>
     </code>
@@ -76,79 +76,25 @@ I have a good understanding of client-side Javasript frameworks and experience b
         <codetitle>Bootstrap</codetitle>
         <codeid>1010</codeid>
         <description>
-        Description of Bootstrap training and work.
+       Bootstrap is my favorite framework and I use it every day. I stay educated and often consult bootstrap wedsite to learn particulars of inline and block level elements and how to leverage the grid system. With monbile-first design I can easily build for every device but can also change styles with custom stylesheet.
         </description>
         <github></github>
     </code>
-    <code>
-        <codetitle>ReactJS</codetitle>
-        <codeid>1011</codeid>
-        <description>
-        Description of ReactJS training and work.
-        </description>
-        <github></github>
-    </code>
-    <code>
-        <codetitle>TypeScript</codetitle>
-        <codeid>1012</codeid>
-        <description>
-        Description of TypeScript training and work.
-        </description>
-        <github></github>
-    </code>
+
     <code>
         <codetitle>Photoshop</codetitle>
         <codeid>1013</codeid>
         <description>
-        Description of Photoshop training and work.
+        I am no pro but I can use Photoshop adequately with layers and the most common functions, removing background altering colors, clean up image, etc.
         </description>
         <github></github>
     </code>
-    <code>
-        <codetitle>InDesign</codetitle>
-        <codeid>1014</codeid>
-        <description>
-        Description of InDesign training and work.
-        </description>
-        <github></github>
-    </code>
-    <code>
-        <codetitle>SASS</codetitle>
-        <codeid>1015</codeid>
-        <description>
-        Description of SASS training and work.
-        </description>
-        <github></github>
-    </code>
-    <code>
-        <codetitle>Cordova</codetitle>
-        <codeid>1016</codeid>
-        <description>
-        Description of Cordova training and work.
-        </description>
-        <github></github>
-    </code>
-    <code>
-        <codetitle>MySQL</codetitle>
-        <codeid>1017</codeid>
-        <description>
-        Description of MySQL training and work.
-        </description>
-        <github></github>
-    </code>
-    <code>
-        <codetitle>MongoDB</codetitle>
-        <codeid>1018</codeid>
-        <description>
-        Description of MongoDB training and work.
-        </description>
-        <github></github>
-    </code>
+
     <code>
         <codetitle>Linux</codetitle>
         <codeid>1019</codeid>
         <description>
-        Description of Linux training and work.
+        Ubuntu is my flavor of linux and I am fully capabale of navigating the server via the command line and installing software and other tasks.
         </description>
         <github></github>
     </code>
@@ -156,7 +102,7 @@ I have a good understanding of client-side Javasript frameworks and experience b
         <codetitle>Apache</codetitle>
         <codeid>1020</codeid>
         <description>
-        Description of Apache training and work.
+        With apached I can create virtual domains and configure security and other necessary attitubes for domain handling, PHP and other aspects.
         </description>
         <github></github>
     </code>
@@ -164,7 +110,7 @@ I have a good understanding of client-side Javasript frameworks and experience b
         <codetitle>JAVA</codetitle>
         <codeid>1021</codeid>
         <description>
-        Description of Java training and work.
+        I love JAVA and have taken many classes, array and array lists. I can build good classes and create and iterate arrays. I am not a professional but have a solid understanding and deep appreciation for Object Oriented programming with this noble language.
         </description>
         <github></github>
     </code>

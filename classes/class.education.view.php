@@ -6,7 +6,7 @@ var $education_array = Array();
     function __construct()
     { 
         // load XML into object
-        $xml_object = simplexml_load_file('http://localhost/leiflinder05/XML/education.xml');
+        $xml_object = simplexml_load_file('../XML/education.xml');
         // encode object into json file
         $json = json_encode($xml_object);
         // decode json fil into multidimensional array
@@ -20,38 +20,26 @@ var $education_array = Array();
     }
 
     function showEducation(){
-        print('<h4 class="eduheader">Academic</h4>');
+        print('<h4 class="edutype">Academic</h4>');
         for ($i=0;$i<sizeof($this->education_array);$i++) {
             if ($this->education_array[$i]['type']=="Academic") {
-            print('<div class="card" style="width: 90;">
-            <div class="card-body">
-              <h5 class="card-title">'.$this->education_array[$i]['title'].'</h5>
-              
-              <div class="holds_college_and_date_combo">
-                <div class="holds_college_name">
-                  <h6 class="card-subtitle mb-2 text-muted">'.$this->education_array[$i]['school'].'</h6>
-                </div>
-                <div class="holds_college_year">
-                  <a href="#" class="card-link">'.$this->education_array[$i]['year'].'</a>
-                </div>
-              </div>
-
-              <a target="_blank" href="'.$this->education_array[$i]['certlink'].'" class="card-link">'.$this->education_array[$i]['achievment'].'</a>
-            </div>
-          </div>');        
+             print('<div class="card-body">
+            <h4 class="card-subtitle mb-2 text-muted">'.$this->education_array[$i]['school'].'</h4>
+              <h5>'.$this->education_array[$i]['title'].'</h5>
+              <p>'.$this->education_array[$i]['achievment'].'</p>
+              <p>'.$this->education_array[$i]['year'].'</p>
+          </div>');          
             }
         }
-        print('<h4 class="eduheader">Professional</h4>');
+        print('<h4 class="edutype">Professional</h4>');
         for ($i=0;$i<sizeof($this->education_array);$i++) {
             if ($this->education_array[$i]['type']=="Professional") {
-            print('<div class="card" style="width: 90;">
-            <div class="card-body">
-              <h5 class="card-title">'.$this->education_array[$i]['title'].'</h5>
-              <h6 class="card-subtitle mb-2 text-muted">'.$this->education_array[$i]['school'].'</h6>
-              <a target="_blank" href="'.$this->education_array[$i]['certlink'].'" class="card-link">'.$this->education_array[$i]['achievment'].'</a>
-              <a href="#" class="card-link">'.$this->education_array[$i]['year'].'</a>
-            </div>
-          </div>');        
+              print('<div class="card-body">
+              <h4 class="card-subtitle mb-2 text-muted">'.$this->education_array[$i]['school'].'</h4>
+                <h5>'.$this->education_array[$i]['title'].'</h5>
+                <p>'.$this->education_array[$i]['achievment'].'</p>
+                <p>'.$this->education_array[$i]['year'].'</p>
+            </div>');         
             }
         }
 

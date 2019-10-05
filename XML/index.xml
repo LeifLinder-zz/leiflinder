@@ -6,9 +6,9 @@
             <image>index-portrait</image>
             <imagelink>code</imagelink>
             <column1title>About Me</column1title>
-            <colum1>My name is Leif Linder and this is my personal website. I am an American living in Oslo Norway. Find here examples of my work as a web developer and image maker. My code projects are available for review on GitHub.</colum1>
+            <colum1>My name is Leif Linder and this is my personal website. I am an American living in Seattle. Find here examples of my work as a web developer and image maker. My code projects are available for review on GitHub.</colum1>
             <column2title>Competency</column2title>
-            <colum2>I have many years as a professional PHP developer. I am a designer as well. In addition now I am competent with AngularJS and ReactJS and NodeJS. I am fully fluent in front end technologies, HTML CSS Bootstrap, etc...</colum2>
+            <colum2>I have many years as a professional PHP developer. I am a designer as well, please see my portfolio. MySQL Bootstrap Git are technologies that I use on a daily basis.</colum2>
             <githubtext>GitHub</githubtext>
             <githuhref>link</githuhref>
         </module>
@@ -23,12 +23,11 @@
                     <listitem>HTML / CSS</listitem>
                     <listitem>Bootstrap</listitem>
                     <listitem>SASS / LESS</listitem>
-                    <listitem>Javascript / Typescript</listitem>
-                    <listitem>Angular 2 / ReactJS</listitem>
+                    <listitem>Javascript / jQuery</listitem>
                 </list>
             </colum1>
-            <column2title>Fullstack Development</column2title>
-            <colum2>Find here code samples and projects I have created using fullstack technologies. Single code base displays brilliantly among variety of devices and screen sizes.</colum2>
+            <column2title>Frontend Developement</column2title>
+            <colum2>From concept to creation, I am able to come up with a design build the front end with HTML and CSS. Bootstrap is helpful as are preprocessors SASS or LESS but I am fully capable of buidling responsive sites without libraries.</colum2>
             <githubtext>GitHub</githubtext>
             <githuhref>leifliner/link/link</githuhref>
         </module>
@@ -47,7 +46,7 @@
                 </list>
             </colum1>
             <column2title>Server Side</column2title>
-            <colum2>Find here code samples and projects I have created using fullstack technologies. Single code base displays brilliantly among variety of devices and screen sizes.</colum2>
+            <colum2>With a LAMP stack or WAMP stack I can build stand alone PHP applications or Drupal sites and am able to point the domain names and configure Apache and PHP setting to be secure and handle data transfer.</colum2>
             <githubtext>GitHub</githubtext>
             <githuhref>leifliner/link/link</githuhref>
         </module>
@@ -68,7 +67,7 @@
                 </list>
             </colum1>
             <column2title>Creative</column2title>
-            <colum2>I enjoy creating website ideas, logos and entire company branding profiles. My moto "start with art", denotes my creative process of first sorting imagery and mode of the new project.</colum2>
+            <colum2>My earlier career was image making and in this way I bring a designers sensibilty to everything I do. It is gratifying to create great visuals and I can create both the look and flow for a new website concept.</colum2>
             <githubtext>GitHub</githubtext>
             <githuhref>leifliner/link/link</githuhref>
         </module>
